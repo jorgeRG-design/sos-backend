@@ -1,0 +1,12 @@
+node_modules/
+.env
+firebase-key.json
+config/firebase-key.json
+secrets/
+uploads/
+backups/
+logs/
+coverage/
+dist/
+build/
+*.log

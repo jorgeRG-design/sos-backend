@@ -1,0 +1,1342 @@
+[
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0101",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
+    "tipo_codigo": "010101",
+    "tipo_nombre": "PRESUNTO HOMICIDIO",
+    "activo": true,
+    "orden": 1
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0101",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
+    "tipo_codigo": "010102",
+    "tipo_nombre": "PRESUNTO FEMINICIDIO",
+    "activo": true,
+    "orden": 2
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0101",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
+    "tipo_codigo": "010103",
+    "tipo_nombre": "PRESUNTO SICARIATO",
+    "activo": true,
+    "orden": 3
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0101",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
+    "tipo_codigo": "010104",
+    "tipo_nombre": "PRESUNTAS LESIONES LEVES Y GRAVES",
+    "activo": true,
+    "orden": 4
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0101",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
+    "tipo_codigo": "010105",
+    "tipo_nombre": "PRESUNTA EXPOSICIÓN A PELIGRO O ABANDONO DE PERSONAS (EXPOSICIÓN, ABANDONO, OMISIÓN DE SOCORRO Y AUXILIO).",
+    "activo": true,
+    "orden": 5
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0102",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
+    "tipo_codigo": "010201",
+    "tipo_nombre": "PRESUNTO CONTRA LA LIBERTAD PERSONAL (ACOSO, SECUESTRO)",
+    "activo": true,
+    "orden": 6
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0102",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
+    "tipo_codigo": "010202",
+    "tipo_nombre": "PRESUNTA TRATA DE PERSONAS",
+    "activo": true,
+    "orden": 7
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0102",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
+    "tipo_codigo": "010203",
+    "tipo_nombre": "PRESUNTA VIOLACIÓN LIBERTAD SEXUAL (MAYOR Y MENOR DE EDAD, SEDUCCIÓN, PORNOGRAFÍA, TOCAMIENTOS, ACOSO, EXHIBICIONISMO Y CHANTAJE)",
+    "activo": true,
+    "orden": 8
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0102",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
+    "tipo_codigo": "010204",
+    "tipo_nombre": "OTROS PRESUNTOS (LA INTIMIDAD, VIOLACIÓN DE DOMICILIO, COMUNICACIONES, SECRETO PROFESIONAL, DE REUNIÓN, TRABAJO, EXPRESIÓN, PROXENETISMO Y OFENSAS AL PUDOR)",
+    "activo": true,
+    "orden": 9
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010301",
+    "tipo_nombre": "PRESUNTO ROBO A PERSONAS (CELULARES, MOCHILAS, CARTERAS, BILLETERAS, RELOJES, JOYAS Y OTROS)",
+    "activo": true,
+    "orden": 10
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010302",
+    "tipo_nombre": "PRESUNTO ROBO DE CASA HABITADA",
+    "activo": true,
+    "orden": 11
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010303",
+    "tipo_nombre": "PRESUNTO ROBO DE GANADO (ABIGEATO)",
+    "activo": true,
+    "orden": 12
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010304",
+    "tipo_nombre": "PRESUNTO ROBO A EMPRESAS PARTICULARES Y ESTATALES",
+    "activo": true,
+    "orden": 13
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010305",
+    "tipo_nombre": "PRESUNTO ROBO DE VEHÍCULOS (MAYORES Y MENORES)",
+    "activo": true,
+    "orden": 14
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010306",
+    "tipo_nombre": "PRESUNTO ROBO DE ACCESORIOS Y AUTOPARTES",
+    "activo": true,
+    "orden": 15
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010307",
+    "tipo_nombre": "PRESUNTO ROBO A PASAJEROS EN VEHÍCULOS DE TRANSPORTE Y MERCANCIAS EN VEHÍCULOS DE CARGA Y REPARTIDORES",
+    "activo": true,
+    "orden": 16
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010308",
+    "tipo_nombre": "PRESUNTO DAÑO (DAÑAR, DESTRUIR O INUTILIZAR BIEN MUEBLE O INMUEBLE)",
+    "activo": true,
+    "orden": 17
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010309",
+    "tipo_nombre": "PRESUNTO HURTO A PERSONAS (CELULARES, MOCHILAS, CARTERAS, BILLETERAS, RELOJES, JOYAS Y OTROS)",
+    "activo": true,
+    "orden": 18
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010310",
+    "tipo_nombre": "HURTO DE CASA HABITADA",
+    "activo": true,
+    "orden": 19
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010311",
+    "tipo_nombre": "PRESUNTO HURTO DE GANADO (ABIGEATO)",
+    "activo": true,
+    "orden": 20
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010312",
+    "tipo_nombre": "PRESUNTO HURTO A EMPRESAS PARTICULARES Y ESTATALES",
+    "activo": true,
+    "orden": 21
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010313",
+    "tipo_nombre": "PRESUNTO HURTO DE VEHÍCULOS (MAYORES Y MENORES)",
+    "activo": true,
+    "orden": 22
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010314",
+    "tipo_nombre": "PRESUNTO HURTO A PASAJEROS EN VEHÍCULOS DE TRANSPORTE Y MERCANCÍAS EN VEHÍCULOS DE CARGA Y REPARTIDORES",
+    "activo": true,
+    "orden": 23
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0103",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
+    "tipo_codigo": "010315",
+    "tipo_nombre": "PRESUNTO OTROS (RECEPTACION, APROPIACION ILICITA, ESTAFA, EXTORSION, CHANTAJE Y USURPACIÓN DE INMUEBLE)",
+    "activo": true,
+    "orden": 24
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0104",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES DELICTIVAS CONTRA LA SEG. PUB.",
+    "tipo_codigo": "010401",
+    "tipo_nombre": "PRESUNTO PELIGRO COMÚN (CREAR INCENDIO O EXPLOSIÓN, CONDUCCIÓN O MANIPULACIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN, FABRICACIÓN, TRAFICO O TENENCIA DE ARMAS, EXPLOSIVOS Y PIROTÉCNICOS)",
+    "activo": true,
+    "orden": 25
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0104",
+    "subtipo_nombre": "PRESUNTAS ACTIVIDADES DELICTIVAS CONTRA LA SEG. PUB.",
+    "tipo_codigo": "010402",
+    "tipo_nombre": "PRESUNTO CONTRA EL TRANSPORTE (CONTRA LA SEGURIDAD COMÚN Y ENTORPECIMIENTO DEL SERVICIO)",
+    "activo": true,
+    "orden": 26
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0105",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SALUD PUB.",
+    "tipo_codigo": "010501",
+    "tipo_nombre": "PRESUNTA CONTAMINACIÓN Y PROPAGACIÓN (CONTAMINACIÓN DE AGUAS, ADULTERACIÓN DE SUSTANCIAS Y COMERCIALIZACIÓN DE PRODUCTOS NOCIVOS)",
+    "activo": true,
+    "orden": 27
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0105",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SALUD PUB.",
+    "tipo_codigo": "010502",
+    "tipo_nombre": "PRESUNTO TRÁFICO ILÍCITO DE DROGAS (PROMOCIÓN, FAVORECIMIENTO, COMERCIALIZACIÓN, PRODUCCIÓN, MICROCOMERCIALIZACIÓN Y POSESIÓN).",
+    "activo": true,
+    "orden": 28
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0106",
+    "subtipo_nombre": "PRE. ACTIV. AMBIENTALES",
+    "tipo_codigo": "010601",
+    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LOS RECURSOS NATURALES Y MEDIO AMBIENTE (CONTAMINACIÓN, RESIDUOS PELIGROSOS Y MINERÍA ILEGAL)",
+    "activo": true,
+    "orden": 29
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0106",
+    "subtipo_nombre": "PRE. ACTIV. AMBIENTALES",
+    "tipo_codigo": "010602",
+    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LOS RECURSOS NATURALES (TRÁFICO ILEGAL DE ESPECIES ACUÁTICAS, FLORA Y FAUNA, TALA ILEGAL Y DEFORESTACIÓN DE BOSQUES)",
+    "activo": true,
+    "orden": 30
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0107",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
+    "tipo_codigo": "010701",
+    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA PAZ PÚBLICA (DISTURBIOS, APOLOGIA, ORG. CRIMINAL, BANDA Y REGLAJE O MARCAJE)",
+    "activo": true,
+    "orden": 31
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0107",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
+    "tipo_codigo": "010702",
+    "tipo_nombre": "PRESUNTA ACTIVIDAD TERRORISTA (PROVOCA, CREA O MANTIENE ESTADO DE ZOZOBRA, ALARMA O TERROR A LA POBLACION)",
+    "activo": true,
+    "orden": 32
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0107",
+    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
+    "tipo_codigo": "010703",
+    "tipo_nombre": "OTROS PRESUNTOS (DISCRIMINACIÓN, CONTRA LA HUMANIDAD, GENOCIDIO, DESAPARICIÓN FORZADA Y TORTURA)",
+    "activo": true,
+    "orden": 33
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0108",
+    "subtipo_nombre": "PRESUNTAS ACTIV. CONTRA LA ADM. PUB.",
+    "tipo_codigo": "010801",
+    "tipo_nombre": "COMETIDOS POR FUNCIONARIOS PÚBLICOS (ABUSO DE AUTORIDAD, MALVERSACIÓN, OTROS)",
+    "activo": true,
+    "orden": 34
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0108",
+    "subtipo_nombre": "PRESUNTAS ACTIV. CONTRA LA ADM. PUB.",
+    "tipo_codigo": "010802",
+    "tipo_nombre": "COMETIDOS POR PARTICULARES (USURPACIÓN DE AUTORIDAD, VIOLENCIA Y RESISTENCIA, OTROS)",
+    "activo": true,
+    "orden": 35
+  },
+  {
+    "modalidad_codigo": "01",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
+    "subtipo_codigo": "0109",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LOS PODERES DEL ESTADO",
+    "tipo_codigo": "010901",
+    "tipo_nombre": "REBELIÓN (ALZARSE EN ARMAS), SEDICIÓN (DESCONOCER AL GOBIERNO) Y MOTÍN (EMPLEAR LA VIOLENCIA Y ATRIBUIRSE DERECHOS DEL PUEBLO Y HACER PETICIONES EN NOMBRE DE ESTE)",
+    "activo": true,
+    "orden": 36
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0201",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
+    "tipo_codigo": "020101",
+    "tipo_nombre": "PRESUNTAS LESIONES (MUY LEVES)",
+    "activo": true,
+    "orden": 37
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0201",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
+    "tipo_codigo": "020102",
+    "tipo_nombre": "PRESUNTO MALTRATO (SIN LESIÓN)",
+    "activo": true,
+    "orden": 38
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0201",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
+    "tipo_codigo": "020103",
+    "tipo_nombre": "PRESUNTAS PELEAS CALLEJERAS CON LESIONES MUY LEVES O SIN LESIONES",
+    "activo": true,
+    "orden": 39
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0201",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
+    "tipo_codigo": "020104",
+    "tipo_nombre": "PRESUNTA MORDEDURA CANINA, PATADA DE CABALLO O LESIÓN DE ANIMAL DOMÉSTICO",
+    "activo": true,
+    "orden": 40
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0201",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
+    "tipo_codigo": "020105",
+    "tipo_nombre": "PRESUNTO HURTO SIMPLE. NO SOBREPASE RMV (S/. 1025.00 - DS. Nº 003-2022- TR DEL 02ABR2022)",
+    "activo": true,
+    "orden": 41
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0202",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
+    "tipo_codigo": "020201",
+    "tipo_nombre": "PRESUNTO DAÑO A LA PROPIEDAD MUEBLE O INMUEBLE",
+    "activo": true,
+    "orden": 42
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0202",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
+    "tipo_codigo": "020202",
+    "tipo_nombre": "PRESUNTO HURTO FAMÉLICO (CONSUMIR Y NO PAGAR)",
+    "activo": true,
+    "orden": 43
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0202",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
+    "tipo_codigo": "020203",
+    "tipo_nombre": "PRESUNTA USURPACION BREVE Y JUEGOS PROHIBIDOS",
+    "activo": true,
+    "orden": 44
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0203",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
+    "tipo_codigo": "020301",
+    "tipo_nombre": "ARROJO DE BASURA O QUEMARLA CAUSANDO MOLESTIAS",
+    "activo": true,
+    "orden": 45
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0203",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
+    "tipo_codigo": "020302",
+    "tipo_nombre": "PRESUNTA OBSTRUCCIÓN Y ARROJO DE ESCOMBROS Y/O MATERIALES. TAMBIÉN NO COLOCAR SEÑALES PREVENTIVAS EN LA VÍA",
+    "activo": true,
+    "orden": 46
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0203",
+    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
+    "tipo_codigo": "020303",
+    "tipo_nombre": "CONDUCIR VEHÍCULO NO MOTORIZADO O ANIMAL A EXCESIVA VELOCIDAD /O CONFIAR VEHÍCULO A MENOR DE EDAD O INEXPERTO",
+    "activo": true,
+    "orden": 47
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0204",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
+    "tipo_codigo": "020401",
+    "tipo_nombre": "PRESUNTO CONSUMO DE ALCOHOL O DROGAS PERTURBANDO LA TRANQUILIDAD O SEGURIDAD DE LAS PERSONAS O SUMINISTRARLO A MENORES DE EDAD",
+    "activo": true,
+    "orden": 48
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0204",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
+    "tipo_codigo": "020402",
+    "tipo_nombre": "PRESUNTA DESTRUCCIÓN DE PLANTAS",
+    "activo": true,
+    "orden": 49
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0204",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
+    "tipo_codigo": "020403",
+    "tipo_nombre": "PRESUNTO ACTOS DE CRUELDAD CONTRA LOS ANIMALES",
+    "activo": true,
+    "orden": 50
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0204",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
+    "tipo_codigo": "020404",
+    "tipo_nombre": "PRESUNTA PROPOSICIÓN INMORAL O DESHONESTA",
+    "activo": true,
+    "orden": 51
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0205",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
+    "tipo_codigo": "020501",
+    "tipo_nombre": "PERTURBAR ACTOS SOLEMNES O REUNIONES PÚBLICAS",
+    "activo": true,
+    "orden": 52
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0205",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
+    "tipo_codigo": "020502",
+    "tipo_nombre": "FALTAMIENTO DE PALABRA A UNA AUTORIDAD",
+    "activo": true,
+    "orden": 53
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0205",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
+    "tipo_codigo": "020503",
+    "tipo_nombre": "OCULTAR SU NOMBRE, DOMICILIO O ESTADO CIVIL A LA AUTORIDAD",
+    "activo": true,
+    "orden": 54
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0205",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
+    "tipo_codigo": "020504",
+    "tipo_nombre": "EL QUE NIEGA AUXILIO A UNA AUTORIDAD PARA SOCORRER A UN TERCERO",
+    "activo": true,
+    "orden": 55
+  },
+  {
+    "modalidad_codigo": "02",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
+    "subtipo_codigo": "0205",
+    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
+    "tipo_codigo": "020505",
+    "tipo_nombre": "PERTURBAR CON DISCUSIONES RUIDOS O MOLESTIAS ANÁLOGAS",
+    "activo": true,
+    "orden": 56
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030101",
+    "tipo_nombre": "PRESUNTO ATROPELLO",
+    "activo": true,
+    "orden": 57
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030102",
+    "tipo_nombre": "PRESUNTO ATROPELLO Y FUGA",
+    "activo": true,
+    "orden": 58
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030103",
+    "tipo_nombre": "PRESUNTO CHOQUE",
+    "activo": true,
+    "orden": 59
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030104",
+    "tipo_nombre": "PRESUNTO CHOQUE Y FUGA",
+    "activo": true,
+    "orden": 60
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030105",
+    "tipo_nombre": "OTROS PRESUNTOS ACCIDENTES (DESPISTE, VOLCADURA, CAIDA DE PASAJERO E INCENDIO)",
+    "activo": true,
+    "orden": 61
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030106",
+    "tipo_nombre": "APOYO SUBSIDIARIO A LA PNP, PARA EL CONTROL DE TRÁNSITO VEHÍCULAR CUANDO LO SOLICITE",
+    "activo": true,
+    "orden": 62
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030107",
+    "tipo_nombre": "PRESUNTO VEHÍCULO ABANDONADO",
+    "activo": true,
+    "orden": 63
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030108",
+    "tipo_nombre": "VEHÍCULOS NO AUTORIZADOS O PROHIBIDOS PARA SERVICIO PÚBLICO",
+    "activo": true,
+    "orden": 64
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030109",
+    "tipo_nombre": "VEHÍCULOS QUE HACEN PIQUES Y CARRERAS.",
+    "activo": true,
+    "orden": 65
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030110",
+    "tipo_nombre": "PARADEROS Y VEHÍCULOS DE TRANSPORTE PÚBLICO INFORMALES",
+    "activo": true,
+    "orden": 66
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030111",
+    "tipo_nombre": "VEHÍCULOS ESTACIONADOS EN ZONA PROHIBIDA",
+    "activo": true,
+    "orden": 67
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0301",
+    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
+    "tipo_codigo": "030112",
+    "tipo_nombre": "OTRAS INFRACCIONES AL RGTO. DE TRÁNSITO.",
+    "activo": true,
+    "orden": 68
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030301",
+    "tipo_nombre": "CAMBISTAS EN LA VÍA PÚBLICA (INTERRUMPEN TRÁNSITO PEATONAL Y VEHÍCULAR)",
+    "activo": true,
+    "orden": 69
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030302",
+    "tipo_nombre": "LLAMADORES, JALADORES Y PARQUEADORES INFORMALES (QUE GRITAN Y SE APROPIAN DE ESPACIOS PÚBLICOS)",
+    "activo": true,
+    "orden": 70
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030303",
+    "tipo_nombre": "RECICLADORES FORMALES O INFORMALES",
+    "activo": true,
+    "orden": 71
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030304",
+    "tipo_nombre": "ORATES Y/O INDIGENTES (AGRESIVOS, QUE EXIGEN DINERO O SE POSESIONAN DE ESPACIOS, INTERRUMPIENDO ACTIVIDADES PÚBLICAS O PRIVADAS)",
+    "activo": true,
+    "orden": 72
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030305",
+    "tipo_nombre": "PRESUNTAS PERSONAS EN ACTITUD SOSPECHOSA",
+    "activo": true,
+    "orden": 73
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030306",
+    "tipo_nombre": "PRESUNTAS PERSONAS EN VEHÍCULOS SOSPECHOSOS",
+    "activo": true,
+    "orden": 74
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030307",
+    "tipo_nombre": "PRESUNTOS TRABAJADORES SEXUALES EN LA VIA PÙBLICA (MASCULINO O FEMENINO)",
+    "activo": true,
+    "orden": 75
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030308",
+    "tipo_nombre": "PRESUNTAS PERSONAS QUE MICCIONAN EN VIA PÚBLICA",
+    "activo": true,
+    "orden": 76
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0303",
+    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
+    "tipo_codigo": "030309",
+    "tipo_nombre": "OTROS PRESUNTOS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) - PERSONAS DE MAL VIVIR",
+    "activo": true,
+    "orden": 77
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030401",
+    "tipo_nombre": "COMERCIO EN VÍA PÚBLICA DISTINTA AL AUTORIZADO",
+    "activo": true,
+    "orden": 78
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030402",
+    "tipo_nombre": "COMERCIO EN VÍA PÚBLICA NO AUTORIZADO",
+    "activo": true,
+    "orden": 79
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030403",
+    "tipo_nombre": "COMERCIO SIN LICENCIA DE FUNCIONAMIENTO",
+    "activo": true,
+    "orden": 80
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030404",
+    "tipo_nombre": "CONSTRUCCIONES SIN LICENCIA MUNICIPAL",
+    "activo": true,
+    "orden": 81
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030405",
+    "tipo_nombre": "TRABAJO SEXUAL CLANDESTINO EN INMUEBLE (SALA DE MASAJES, SAUNAS Y OTROS)",
+    "activo": true,
+    "orden": 82
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030406",
+    "tipo_nombre": "ESTABLECIMIENTOS EN MALAS CONDICIONES DE LIMPIEZA",
+    "activo": true,
+    "orden": 83
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030407",
+    "tipo_nombre": "RUIDOS MOLESTOS",
+    "activo": true,
+    "orden": 84
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030408",
+    "tipo_nombre": "OBSTRUCCIÓN DE CALZADA, VEREDA Y OTROS, SIN INDICAR VIA ALTERNA / SIN SEÑALIZACIÓN / SIN MEDIDAS DE SEGURIDAD (CONSTRUCCIONES O REPARACIONES)",
+    "activo": true,
+    "orden": 85
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030409",
+    "tipo_nombre": "INGERIR ALCOHOL EN LA VIA PÚBLICA",
+    "activo": true,
+    "orden": 86
+  },
+  {
+    "modalidad_codigo": "03",
+    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
+    "subtipo_codigo": "0304",
+    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
+    "tipo_codigo": "030410",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) FUNCIONAMIENTO DE BARES Y CANTINAS",
+    "activo": true,
+    "orden": 87
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040101",
+    "tipo_nombre": "RESCATE Y AUXILIO DE PERSONAS",
+    "activo": true,
+    "orden": 88
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040102",
+    "tipo_nombre": "AUXILIO VIAL",
+    "activo": true,
+    "orden": 89
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040103",
+    "tipo_nombre": "MENORES Y ANCIANOS EN ESTADO DE ABANDONO",
+    "activo": true,
+    "orden": 90
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040104",
+    "tipo_nombre": "APOYO AL VECINO",
+    "activo": true,
+    "orden": 91
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040105",
+    "tipo_nombre": "PERSONAS EXTRAVIADAS, DESAPARECIDAS Y DESORIENTADAS",
+    "activo": true,
+    "orden": 92
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040106",
+    "tipo_nombre": "APOYO AL TURISTA",
+    "activo": true,
+    "orden": 93
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040107",
+    "tipo_nombre": "ENTREVISTA POR CONFLICTO VECINAL",
+    "activo": true,
+    "orden": 94
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0401",
+    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
+    "tipo_codigo": "040108",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 95
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0402",
+    "subtipo_nombre": "APOYO A OTRAS GERENCIAS O AREAS DE LA MUNICIPALIDAD",
+    "tipo_codigo": "040201",
+    "tipo_nombre": "FISCALIZACIÓN Y OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 96
+  },
+  {
+    "modalidad_codigo": "04",
+    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
+    "subtipo_codigo": "0403",
+    "subtipo_nombre": "APOYO A OTRAS ENTIDADES",
+    "tipo_codigo": "040301",
+    "tipo_nombre": "POLICÍA NACIONAL Y OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) Operativos SERENAZGO Y PNP",
+    "activo": true,
+    "orden": 97
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050101",
+    "tipo_nombre": "HUAYCOS, INUNDACIONES Y DESPLAZAMIENTOS",
+    "activo": true,
+    "orden": 98
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050102",
+    "tipo_nombre": "OTROS FENÓMENOS NATURALES (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 99
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050103",
+    "tipo_nombre": "INCENDIOS",
+    "activo": true,
+    "orden": 100
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050104",
+    "tipo_nombre": "AMAGO DE INCENDIOS",
+    "activo": true,
+    "orden": 101
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050105",
+    "tipo_nombre": "FUGA DE GAS Y DERRAME DE SUSTANCIAS TÓXICAS",
+    "activo": true,
+    "orden": 102
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050106",
+    "tipo_nombre": "CAÍDA DE PUENTES",
+    "activo": true,
+    "orden": 103
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0501",
+    "subtipo_nombre": "DESASTRES",
+    "tipo_codigo": "050107",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 104
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050201",
+    "tipo_nombre": "CORTE DE FLUIDO ELÉCTRICO / AGUA / INTERNET /GAS / TELÉFONO",
+    "activo": true,
+    "orden": 105
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050202",
+    "tipo_nombre": "ANIEGOS Y/O PROBLEMAS DE DESAGÜE",
+    "activo": true,
+    "orden": 106
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050203",
+    "tipo_nombre": "SEMÁFOROS APAGADOS O CON DESPERFECTOS",
+    "activo": true,
+    "orden": 107
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050204",
+    "tipo_nombre": "CAÍDA DE POSTES, CABLES, ÁRBOLES U OTROS",
+    "activo": true,
+    "orden": 108
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050205",
+    "tipo_nombre": "VIVENDAS COLAPSADAS",
+    "activo": true,
+    "orden": 109
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050206",
+    "tipo_nombre": "BUZONES SIN TAPA",
+    "activo": true,
+    "orden": 110
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050207",
+    "tipo_nombre": "TRABAJO DE TERCEROS (INFORMAL Y/O SIN CONDICIONES DE SEGURIDAD)",
+    "activo": true,
+    "orden": 111
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0502",
+    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
+    "tipo_codigo": "050208",
+    "tipo_nombre": "OTROS",
+    "activo": true,
+    "orden": 112
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050301",
+    "tipo_nombre": "PARQUES Y CALLES SIN ILUMINACIÓN O DEFICIENTE",
+    "activo": true,
+    "orden": 113
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050302",
+    "tipo_nombre": "OBRAS INCONCLUSAS EN LA VIA PÚBLICA",
+    "activo": true,
+    "orden": 114
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050303",
+    "tipo_nombre": "CONSTRUCCIONES ABANDONADAS",
+    "activo": true,
+    "orden": 115
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050304",
+    "tipo_nombre": "VIAS SEMI OBSTRUIDAS (POR BACHES PROFUNDOS O GRAN CONGESTIÓN VEHÍCULAR)",
+    "activo": true,
+    "orden": 116
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050305",
+    "tipo_nombre": "MOBILIARIO URBANO DETERIORADO Y/O FALTA DE MANTENIMIENTO",
+    "activo": true,
+    "orden": 117
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050306",
+    "tipo_nombre": "VENTA DE MERCADERÍA USADA (CACHINAS)",
+    "activo": true,
+    "orden": 118
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050307",
+    "tipo_nombre": "TALLERES EN LA VIA PÚBLICA",
+    "activo": true,
+    "orden": 119
+  },
+  {
+    "modalidad_codigo": "05",
+    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
+    "subtipo_codigo": "0503",
+    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
+    "tipo_codigo": "050308",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 120
+  },
+  {
+    "modalidad_codigo": "06",
+    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
+    "subtipo_codigo": "0601",
+    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
+    "tipo_codigo": "060101",
+    "tipo_nombre": "SUICIDIO",
+    "activo": true,
+    "orden": 121
+  },
+  {
+    "modalidad_codigo": "06",
+    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
+    "subtipo_codigo": "0601",
+    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
+    "tipo_codigo": "060102",
+    "tipo_nombre": "INTENTO DE SUICIDIO",
+    "activo": true,
+    "orden": 122
+  },
+  {
+    "modalidad_codigo": "06",
+    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
+    "subtipo_codigo": "0601",
+    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
+    "tipo_codigo": "060103",
+    "tipo_nombre": "MUERTE REPENTINA Y/O NATURAL (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 123
+  },
+  {
+    "modalidad_codigo": "06",
+    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
+    "subtipo_codigo": "0601",
+    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
+    "tipo_codigo": "060104",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 124
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0701",
+    "subtipo_nombre": "OPERATIVO MUNICIPAL",
+    "tipo_codigo": "070101",
+    "tipo_nombre": "OPERATIVO PREVENTIVO",
+    "activo": true,
+    "orden": 125
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0701",
+    "subtipo_nombre": "OPERATIVO MUNICIPAL",
+    "tipo_codigo": "070102",
+    "tipo_nombre": "PROTECCIÓN ESCOLAR",
+    "activo": true,
+    "orden": 126
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0701",
+    "subtipo_nombre": "OPERATIVO MUNICIPAL",
+    "tipo_codigo": "070103",
+    "tipo_nombre": "ACELERAMIENTO Y DESCONGESTION VEHÍCULAR",
+    "activo": true,
+    "orden": 127
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0701",
+    "subtipo_nombre": "OPERATIVO MUNICIPAL",
+    "tipo_codigo": "070104",
+    "tipo_nombre": "OTROS OPERATIVOS MUNICIPALES (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 128
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070201",
+    "tipo_nombre": "EN APOYO A LA PNP EN PROGRAMAS PREVENTIVOS (ESPECIFICAR LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 129
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070202",
+    "tipo_nombre": "APOYO A OTRAS ENTIDADES EN PROGRAMAS PREVENTIVOS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 130
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070203",
+    "tipo_nombre": "SERENAZGO SIN FRONTERAS",
+    "activo": true,
+    "orden": 131
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070204",
+    "tipo_nombre": "PATRULLAJE MIXTO (SERENAZGO, JUNTAS VECINALES Y PNP)",
+    "activo": true,
+    "orden": 132
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070205",
+    "tipo_nombre": "CONTACTO Y CONTROL CIUDADANO",
+    "activo": true,
+    "orden": 133
+  },
+  {
+    "modalidad_codigo": "07",
+    "modalidad_nombre": "OPERATIVOS",
+    "subtipo_codigo": "0702",
+    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
+    "tipo_codigo": "070206",
+    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
+    "activo": true,
+    "orden": 134
+  }
+]
