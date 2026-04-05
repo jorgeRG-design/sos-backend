@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "db:init": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/database/db-init.ps1",
+    "db:migrate": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/database/db-migrate.ps1",
+    "clasificador:import": "node scripts/importar_clasificador.js",
+    "firestore:seed": "node scripts/firestore/seed.js",
     "backup:postgres": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/backup/backup-postgres.ps1",
     "backup:uploads": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/backup/backup-uploads.ps1",
     "backup:firestore": "node scripts/backup/backup-firestore.js",

@@ -20,7 +20,9 @@ function cargarCredencialDesdeEntorno() {
   }
 
   const credentialsPath = String(
-    process.env.GOOGLE_APPLICATION_CREDENTIALS || ''
+    process.env.GOOGLE_APPLICATION_CREDENTIALS ||
+      process.env.FIREBASE_CREDENTIALS_PATH ||
+      ''
   ).trim();
   if (!credentialsPath) {
     return null;
