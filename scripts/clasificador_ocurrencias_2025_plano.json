@@ -1,1342 +1,1430 @@
 [
   {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0101",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
-    "tipo_codigo": "010101",
-    "tipo_nombre": "PRESUNTO HOMICIDIO",
-    "activo": true,
-    "orden": 1
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0101",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
-    "tipo_codigo": "010102",
-    "tipo_nombre": "PRESUNTO FEMINICIDIO",
-    "activo": true,
-    "orden": 2
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0101",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
-    "tipo_codigo": "010103",
-    "tipo_nombre": "PRESUNTO SICARIATO",
-    "activo": true,
-    "orden": 3
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0101",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
-    "tipo_codigo": "010104",
-    "tipo_nombre": "PRESUNTAS LESIONES LEVES Y GRAVES",
-    "activo": true,
-    "orden": 4
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0101",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA LA VIDA, EL CUERPO Y LA SALUD",
-    "tipo_codigo": "010105",
-    "tipo_nombre": "PRESUNTA EXPOSICIÓN A PELIGRO O ABANDONO DE PERSONAS (EXPOSICIÓN, ABANDONO, OMISIÓN DE SOCORRO Y AUXILIO).",
-    "activo": true,
-    "orden": 5
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0102",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
-    "tipo_codigo": "010201",
-    "tipo_nombre": "PRESUNTO CONTRA LA LIBERTAD PERSONAL (ACOSO, SECUESTRO)",
-    "activo": true,
-    "orden": 6
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0102",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
-    "tipo_codigo": "010202",
-    "tipo_nombre": "PRESUNTA TRATA DE PERSONAS",
-    "activo": true,
-    "orden": 7
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0102",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
-    "tipo_codigo": "010203",
-    "tipo_nombre": "PRESUNTA VIOLACIÓN LIBERTAD SEXUAL (MAYOR Y MENOR DE EDAD, SEDUCCIÓN, PORNOGRAFÍA, TOCAMIENTOS, ACOSO, EXHIBICIONISMO Y CHANTAJE)",
-    "activo": true,
-    "orden": 8
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0102",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA LIBERTAD",
-    "tipo_codigo": "010204",
-    "tipo_nombre": "OTROS PRESUNTOS (LA INTIMIDAD, VIOLACIÓN DE DOMICILIO, COMUNICACIONES, SECRETO PROFESIONAL, DE REUNIÓN, TRABAJO, EXPRESIÓN, PROXENETISMO Y OFENSAS AL PUDOR)",
-    "activo": true,
-    "orden": 9
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010301",
-    "tipo_nombre": "PRESUNTO ROBO A PERSONAS (CELULARES, MOCHILAS, CARTERAS, BILLETERAS, RELOJES, JOYAS Y OTROS)",
-    "activo": true,
-    "orden": 10
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010302",
-    "tipo_nombre": "PRESUNTO ROBO DE CASA HABITADA",
-    "activo": true,
-    "orden": 11
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010303",
-    "tipo_nombre": "PRESUNTO ROBO DE GANADO (ABIGEATO)",
-    "activo": true,
-    "orden": 12
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010304",
-    "tipo_nombre": "PRESUNTO ROBO A EMPRESAS PARTICULARES Y ESTATALES",
-    "activo": true,
-    "orden": 13
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010305",
-    "tipo_nombre": "PRESUNTO ROBO DE VEHÍCULOS (MAYORES Y MENORES)",
-    "activo": true,
-    "orden": 14
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010306",
-    "tipo_nombre": "PRESUNTO ROBO DE ACCESORIOS Y AUTOPARTES",
-    "activo": true,
-    "orden": 15
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010307",
-    "tipo_nombre": "PRESUNTO ROBO A PASAJEROS EN VEHÍCULOS DE TRANSPORTE Y MERCANCIAS EN VEHÍCULOS DE CARGA Y REPARTIDORES",
-    "activo": true,
-    "orden": 16
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010308",
-    "tipo_nombre": "PRESUNTO DAÑO (DAÑAR, DESTRUIR O INUTILIZAR BIEN MUEBLE O INMUEBLE)",
-    "activo": true,
-    "orden": 17
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010309",
-    "tipo_nombre": "PRESUNTO HURTO A PERSONAS (CELULARES, MOCHILAS, CARTERAS, BILLETERAS, RELOJES, JOYAS Y OTROS)",
-    "activo": true,
-    "orden": 18
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010310",
-    "tipo_nombre": "HURTO DE CASA HABITADA",
-    "activo": true,
-    "orden": 19
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010311",
-    "tipo_nombre": "PRESUNTO HURTO DE GANADO (ABIGEATO)",
-    "activo": true,
-    "orden": 20
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010312",
-    "tipo_nombre": "PRESUNTO HURTO A EMPRESAS PARTICULARES Y ESTATALES",
-    "activo": true,
-    "orden": 21
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010313",
-    "tipo_nombre": "PRESUNTO HURTO DE VEHÍCULOS (MAYORES Y MENORES)",
-    "activo": true,
-    "orden": 22
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010314",
-    "tipo_nombre": "PRESUNTO HURTO A PASAJEROS EN VEHÍCULOS DE TRANSPORTE Y MERCANCÍAS EN VEHÍCULOS DE CARGA Y REPARTIDORES",
-    "activo": true,
-    "orden": 23
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0103",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES CONTRA EL PATRIMONIO",
-    "tipo_codigo": "010315",
-    "tipo_nombre": "PRESUNTO OTROS (RECEPTACION, APROPIACION ILICITA, ESTAFA, EXTORSION, CHANTAJE Y USURPACIÓN DE INMUEBLE)",
-    "activo": true,
-    "orden": 24
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0104",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES DELICTIVAS CONTRA LA SEG. PUB.",
-    "tipo_codigo": "010401",
-    "tipo_nombre": "PRESUNTO PELIGRO COMÚN (CREAR INCENDIO O EXPLOSIÓN, CONDUCCIÓN O MANIPULACIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN, FABRICACIÓN, TRAFICO O TENENCIA DE ARMAS, EXPLOSIVOS Y PIROTÉCNICOS)",
-    "activo": true,
-    "orden": 25
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0104",
-    "subtipo_nombre": "PRESUNTAS ACTIVIDADES DELICTIVAS CONTRA LA SEG. PUB.",
-    "tipo_codigo": "010402",
-    "tipo_nombre": "PRESUNTO CONTRA EL TRANSPORTE (CONTRA LA SEGURIDAD COMÚN Y ENTORPECIMIENTO DEL SERVICIO)",
-    "activo": true,
-    "orden": 26
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0105",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SALUD PUB.",
-    "tipo_codigo": "010501",
-    "tipo_nombre": "PRESUNTA CONTAMINACIÓN Y PROPAGACIÓN (CONTAMINACIÓN DE AGUAS, ADULTERACIÓN DE SUSTANCIAS Y COMERCIALIZACIÓN DE PRODUCTOS NOCIVOS)",
-    "activo": true,
-    "orden": 27
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0105",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SALUD PUB.",
-    "tipo_codigo": "010502",
-    "tipo_nombre": "PRESUNTO TRÁFICO ILÍCITO DE DROGAS (PROMOCIÓN, FAVORECIMIENTO, COMERCIALIZACIÓN, PRODUCCIÓN, MICROCOMERCIALIZACIÓN Y POSESIÓN).",
-    "activo": true,
-    "orden": 28
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0106",
-    "subtipo_nombre": "PRE. ACTIV. AMBIENTALES",
-    "tipo_codigo": "010601",
-    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LOS RECURSOS NATURALES Y MEDIO AMBIENTE (CONTAMINACIÓN, RESIDUOS PELIGROSOS Y MINERÍA ILEGAL)",
-    "activo": true,
-    "orden": 29
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0106",
-    "subtipo_nombre": "PRE. ACTIV. AMBIENTALES",
-    "tipo_codigo": "010602",
-    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LOS RECURSOS NATURALES (TRÁFICO ILEGAL DE ESPECIES ACUÁTICAS, FLORA Y FAUNA, TALA ILEGAL Y DEFORESTACIÓN DE BOSQUES)",
-    "activo": true,
-    "orden": 30
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0107",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
-    "tipo_codigo": "010701",
-    "tipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA PAZ PÚBLICA (DISTURBIOS, APOLOGIA, ORG. CRIMINAL, BANDA Y REGLAJE O MARCAJE)",
-    "activo": true,
-    "orden": 31
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0107",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
-    "tipo_codigo": "010702",
-    "tipo_nombre": "PRESUNTA ACTIVIDAD TERRORISTA (PROVOCA, CREA O MANTIENE ESTADO DE ZOZOBRA, ALARMA O TERROR A LA POBLACION)",
-    "activo": true,
-    "orden": 32
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0107",
-    "subtipo_nombre": "PRESUNTA ACTIVIDAD CONTRA LA TRANQUILIDAD PUB",
-    "tipo_codigo": "010703",
-    "tipo_nombre": "OTROS PRESUNTOS (DISCRIMINACIÓN, CONTRA LA HUMANIDAD, GENOCIDIO, DESAPARICIÓN FORZADA Y TORTURA)",
-    "activo": true,
-    "orden": 33
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0108",
-    "subtipo_nombre": "PRESUNTAS ACTIV. CONTRA LA ADM. PUB.",
-    "tipo_codigo": "010801",
-    "tipo_nombre": "COMETIDOS POR FUNCIONARIOS PÚBLICOS (ABUSO DE AUTORIDAD, MALVERSACIÓN, OTROS)",
-    "activo": true,
-    "orden": 34
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0108",
-    "subtipo_nombre": "PRESUNTAS ACTIV. CONTRA LA ADM. PUB.",
-    "tipo_codigo": "010802",
-    "tipo_nombre": "COMETIDOS POR PARTICULARES (USURPACIÓN DE AUTORIDAD, VIOLENCIA Y RESISTENCIA, OTROS)",
-    "activo": true,
-    "orden": 35
-  },
-  {
-    "modalidad_codigo": "01",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN APOYO A LA PNP, EN ACTIVIDADES",
-    "subtipo_codigo": "0109",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LOS PODERES DEL ESTADO",
-    "tipo_codigo": "010901",
-    "tipo_nombre": "REBELIÓN (ALZARSE EN ARMAS), SEDICIÓN (DESCONOCER AL GOBIERNO) Y MOTÍN (EMPLEAR LA VIOLENCIA Y ATRIBUIRSE DERECHOS DEL PUEBLO Y HACER PETICIONES EN NOMBRE DE ESTE)",
-    "activo": true,
-    "orden": 36
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0201",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
-    "tipo_codigo": "020101",
-    "tipo_nombre": "PRESUNTAS LESIONES (MUY LEVES)",
-    "activo": true,
-    "orden": 37
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0201",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
-    "tipo_codigo": "020102",
-    "tipo_nombre": "PRESUNTO MALTRATO (SIN LESIÓN)",
-    "activo": true,
-    "orden": 38
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0201",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
-    "tipo_codigo": "020103",
-    "tipo_nombre": "PRESUNTAS PELEAS CALLEJERAS CON LESIONES MUY LEVES O SIN LESIONES",
-    "activo": true,
-    "orden": 39
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0201",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
-    "tipo_codigo": "020104",
-    "tipo_nombre": "PRESUNTA MORDEDURA CANINA, PATADA DE CABALLO O LESIÓN DE ANIMAL DOMÉSTICO",
-    "activo": true,
-    "orden": 40
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0201",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA PERSONA",
-    "tipo_codigo": "020105",
-    "tipo_nombre": "PRESUNTO HURTO SIMPLE. NO SOBREPASE RMV (S/. 1025.00 - DS. Nº 003-2022- TR DEL 02ABR2022)",
-    "activo": true,
-    "orden": 41
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0202",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
-    "tipo_codigo": "020201",
-    "tipo_nombre": "PRESUNTO DAÑO A LA PROPIEDAD MUEBLE O INMUEBLE",
-    "activo": true,
-    "orden": 42
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0202",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
-    "tipo_codigo": "020202",
-    "tipo_nombre": "PRESUNTO HURTO FAMÉLICO (CONSUMIR Y NO PAGAR)",
-    "activo": true,
-    "orden": 43
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0202",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA EL PATRIMONIO",
-    "tipo_codigo": "020203",
-    "tipo_nombre": "PRESUNTA USURPACION BREVE Y JUEGOS PROHIBIDOS",
-    "activo": true,
-    "orden": 44
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0203",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
-    "tipo_codigo": "020301",
-    "tipo_nombre": "ARROJO DE BASURA O QUEMARLA CAUSANDO MOLESTIAS",
-    "activo": true,
-    "orden": 45
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0203",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
-    "tipo_codigo": "020302",
-    "tipo_nombre": "PRESUNTA OBSTRUCCIÓN Y ARROJO DE ESCOMBROS Y/O MATERIALES. TAMBIÉN NO COLOCAR SEÑALES PREVENTIVAS EN LA VÍA",
-    "activo": true,
-    "orden": 46
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0203",
-    "subtipo_nombre": "PRE. ACTIV. CONTRA LA SEG. PÚBLICA",
-    "tipo_codigo": "020303",
-    "tipo_nombre": "CONDUCIR VEHÍCULO NO MOTORIZADO O ANIMAL A EXCESIVA VELOCIDAD /O CONFIAR VEHÍCULO A MENOR DE EDAD O INEXPERTO",
-    "activo": true,
-    "orden": 47
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0204",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
-    "tipo_codigo": "020401",
-    "tipo_nombre": "PRESUNTO CONSUMO DE ALCOHOL O DROGAS PERTURBANDO LA TRANQUILIDAD O SEGURIDAD DE LAS PERSONAS O SUMINISTRARLO A MENORES DE EDAD",
-    "activo": true,
-    "orden": 48
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0204",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
-    "tipo_codigo": "020402",
-    "tipo_nombre": "PRESUNTA DESTRUCCIÓN DE PLANTAS",
-    "activo": true,
-    "orden": 49
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0204",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
-    "tipo_codigo": "020403",
-    "tipo_nombre": "PRESUNTO ACTOS DE CRUELDAD CONTRA LOS ANIMALES",
-    "activo": true,
-    "orden": 50
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0204",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LAS BUENAS COSTUMBRES",
-    "tipo_codigo": "020404",
-    "tipo_nombre": "PRESUNTA PROPOSICIÓN INMORAL O DESHONESTA",
-    "activo": true,
-    "orden": 51
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0205",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
-    "tipo_codigo": "020501",
-    "tipo_nombre": "PERTURBAR ACTOS SOLEMNES O REUNIONES PÚBLICAS",
-    "activo": true,
-    "orden": 52
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0205",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
-    "tipo_codigo": "020502",
-    "tipo_nombre": "FALTAMIENTO DE PALABRA A UNA AUTORIDAD",
-    "activo": true,
-    "orden": 53
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0205",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
-    "tipo_codigo": "020503",
-    "tipo_nombre": "OCULTAR SU NOMBRE, DOMICILIO O ESTADO CIVIL A LA AUTORIDAD",
-    "activo": true,
-    "orden": 54
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0205",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
-    "tipo_codigo": "020504",
-    "tipo_nombre": "EL QUE NIEGA AUXILIO A UNA AUTORIDAD PARA SOCORRER A UN TERCERO",
-    "activo": true,
-    "orden": 55
-  },
-  {
-    "modalidad_codigo": "02",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP EN PRESUNTAS FALTAS",
-    "subtipo_codigo": "0205",
-    "subtipo_nombre": "PRESUNTA ACTIV. CONTRA LA TRANQUIL. PUB.",
-    "tipo_codigo": "020505",
-    "tipo_nombre": "PERTURBAR CON DISCUSIONES RUIDOS O MOLESTIAS ANÁLOGAS",
-    "activo": true,
-    "orden": 56
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030101",
-    "tipo_nombre": "PRESUNTO ATROPELLO",
-    "activo": true,
-    "orden": 57
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030102",
-    "tipo_nombre": "PRESUNTO ATROPELLO Y FUGA",
-    "activo": true,
-    "orden": 58
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030103",
-    "tipo_nombre": "PRESUNTO CHOQUE",
-    "activo": true,
-    "orden": 59
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030104",
-    "tipo_nombre": "PRESUNTO CHOQUE Y FUGA",
-    "activo": true,
-    "orden": 60
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030105",
-    "tipo_nombre": "OTROS PRESUNTOS ACCIDENTES (DESPISTE, VOLCADURA, CAIDA DE PASAJERO E INCENDIO)",
-    "activo": true,
-    "orden": 61
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030106",
-    "tipo_nombre": "APOYO SUBSIDIARIO A LA PNP, PARA EL CONTROL DE TRÁNSITO VEHÍCULAR CUANDO LO SOLICITE",
-    "activo": true,
-    "orden": 62
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030107",
-    "tipo_nombre": "PRESUNTO VEHÍCULO ABANDONADO",
-    "activo": true,
-    "orden": 63
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030108",
-    "tipo_nombre": "VEHÍCULOS NO AUTORIZADOS O PROHIBIDOS PARA SERVICIO PÚBLICO",
-    "activo": true,
-    "orden": 64
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030109",
-    "tipo_nombre": "VEHÍCULOS QUE HACEN PIQUES Y CARRERAS.",
-    "activo": true,
-    "orden": 65
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030110",
-    "tipo_nombre": "PARADEROS Y VEHÍCULOS DE TRANSPORTE PÚBLICO INFORMALES",
-    "activo": true,
-    "orden": 66
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030111",
-    "tipo_nombre": "VEHÍCULOS ESTACIONADOS EN ZONA PROHIBIDA",
-    "activo": true,
-    "orden": 67
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0301",
-    "subtipo_nombre": "PRESUNTOS ACCIDENTES E INFRACCIONES AL TRÁNSITO Y TRANSPORTE",
-    "tipo_codigo": "030112",
-    "tipo_nombre": "OTRAS INFRACCIONES AL RGTO. DE TRÁNSITO.",
-    "activo": true,
-    "orden": 68
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030301",
-    "tipo_nombre": "CAMBISTAS EN LA VÍA PÚBLICA (INTERRUMPEN TRÁNSITO PEATONAL Y VEHÍCULAR)",
-    "activo": true,
-    "orden": 69
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030302",
-    "tipo_nombre": "LLAMADORES, JALADORES Y PARQUEADORES INFORMALES (QUE GRITAN Y SE APROPIAN DE ESPACIOS PÚBLICOS)",
-    "activo": true,
-    "orden": 70
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030303",
-    "tipo_nombre": "RECICLADORES FORMALES O INFORMALES",
-    "activo": true,
-    "orden": 71
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030304",
-    "tipo_nombre": "ORATES Y/O INDIGENTES (AGRESIVOS, QUE EXIGEN DINERO O SE POSESIONAN DE ESPACIOS, INTERRUMPIENDO ACTIVIDADES PÚBLICAS O PRIVADAS)",
-    "activo": true,
-    "orden": 72
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030305",
-    "tipo_nombre": "PRESUNTAS PERSONAS EN ACTITUD SOSPECHOSA",
-    "activo": true,
-    "orden": 73
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030306",
-    "tipo_nombre": "PRESUNTAS PERSONAS EN VEHÍCULOS SOSPECHOSOS",
-    "activo": true,
-    "orden": 74
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030307",
-    "tipo_nombre": "PRESUNTOS TRABAJADORES SEXUALES EN LA VIA PÙBLICA (MASCULINO O FEMENINO)",
-    "activo": true,
-    "orden": 75
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030308",
-    "tipo_nombre": "PRESUNTAS PERSONAS QUE MICCIONAN EN VIA PÚBLICA",
-    "activo": true,
-    "orden": 76
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0303",
-    "subtipo_nombre": "PRESUNTA ACTIV. DE PERSONAS QUE AFECTAN TRANQUILIDAD Y EL ORDEN",
-    "tipo_codigo": "030309",
-    "tipo_nombre": "OTROS PRESUNTOS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) - PERSONAS DE MAL VIVIR",
-    "activo": true,
-    "orden": 77
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030401",
-    "tipo_nombre": "COMERCIO EN VÍA PÚBLICA DISTINTA AL AUTORIZADO",
-    "activo": true,
-    "orden": 78
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030402",
-    "tipo_nombre": "COMERCIO EN VÍA PÚBLICA NO AUTORIZADO",
-    "activo": true,
-    "orden": 79
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030403",
-    "tipo_nombre": "COMERCIO SIN LICENCIA DE FUNCIONAMIENTO",
-    "activo": true,
-    "orden": 80
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030404",
-    "tipo_nombre": "CONSTRUCCIONES SIN LICENCIA MUNICIPAL",
-    "activo": true,
-    "orden": 81
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030405",
-    "tipo_nombre": "TRABAJO SEXUAL CLANDESTINO EN INMUEBLE (SALA DE MASAJES, SAUNAS Y OTROS)",
-    "activo": true,
-    "orden": 82
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030406",
-    "tipo_nombre": "ESTABLECIMIENTOS EN MALAS CONDICIONES DE LIMPIEZA",
-    "activo": true,
-    "orden": 83
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030407",
-    "tipo_nombre": "RUIDOS MOLESTOS",
-    "activo": true,
-    "orden": 84
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030408",
-    "tipo_nombre": "OBSTRUCCIÓN DE CALZADA, VEREDA Y OTROS, SIN INDICAR VIA ALTERNA / SIN SEÑALIZACIÓN / SIN MEDIDAS DE SEGURIDAD (CONSTRUCCIONES O REPARACIONES)",
-    "activo": true,
-    "orden": 85
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030409",
-    "tipo_nombre": "INGERIR ALCOHOL EN LA VIA PÚBLICA",
-    "activo": true,
-    "orden": 86
-  },
-  {
-    "modalidad_codigo": "03",
-    "modalidad_nombre": "EMISION DE ALERTAS TEMPRANAS EN APOYO A LA PNP Y OTRAS GERENCIAS, EN PRESUNTAS INFRACCIONES",
-    "subtipo_codigo": "0304",
-    "subtipo_nombre": "PRESUNTAS INFRACCIONES A LAS ORDENANZAS Y LICENCIAS MUNICIPALES",
-    "tipo_codigo": "030410",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) FUNCIONAMIENTO DE BARES Y CANTINAS",
-    "activo": true,
-    "orden": 87
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040101",
-    "tipo_nombre": "RESCATE Y AUXILIO DE PERSONAS",
-    "activo": true,
-    "orden": 88
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040102",
-    "tipo_nombre": "AUXILIO VIAL",
-    "activo": true,
-    "orden": 89
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040103",
-    "tipo_nombre": "MENORES Y ANCIANOS EN ESTADO DE ABANDONO",
-    "activo": true,
-    "orden": 90
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040104",
-    "tipo_nombre": "APOYO AL VECINO",
-    "activo": true,
-    "orden": 91
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040105",
-    "tipo_nombre": "PERSONAS EXTRAVIADAS, DESAPARECIDAS Y DESORIENTADAS",
-    "activo": true,
-    "orden": 92
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040106",
-    "tipo_nombre": "APOYO AL TURISTA",
-    "activo": true,
-    "orden": 93
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040107",
-    "tipo_nombre": "ENTREVISTA POR CONFLICTO VECINAL",
-    "activo": true,
-    "orden": 94
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0401",
-    "subtipo_nombre": "AYUDA, AUXILIO Y RESCATE DE PERSONAS",
-    "tipo_codigo": "040108",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 95
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0402",
-    "subtipo_nombre": "APOYO A OTRAS GERENCIAS O AREAS DE LA MUNICIPALIDAD",
-    "tipo_codigo": "040201",
-    "tipo_nombre": "FISCALIZACIÓN Y OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 96
-  },
-  {
-    "modalidad_codigo": "04",
-    "modalidad_nombre": "AYUDA Y APOYO A PERSONAS Y ENTIDADES",
-    "subtipo_codigo": "0403",
-    "subtipo_nombre": "APOYO A OTRAS ENTIDADES",
-    "tipo_codigo": "040301",
-    "tipo_nombre": "POLICÍA NACIONAL Y OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS) Operativos SERENAZGO Y PNP",
-    "activo": true,
-    "orden": 97
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050101",
-    "tipo_nombre": "HUAYCOS, INUNDACIONES Y DESPLAZAMIENTOS",
-    "activo": true,
-    "orden": 98
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050102",
-    "tipo_nombre": "OTROS FENÓMENOS NATURALES (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 99
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050103",
-    "tipo_nombre": "INCENDIOS",
-    "activo": true,
-    "orden": 100
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050104",
-    "tipo_nombre": "AMAGO DE INCENDIOS",
-    "activo": true,
-    "orden": 101
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050105",
-    "tipo_nombre": "FUGA DE GAS Y DERRAME DE SUSTANCIAS TÓXICAS",
-    "activo": true,
-    "orden": 102
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050106",
-    "tipo_nombre": "CAÍDA DE PUENTES",
-    "activo": true,
-    "orden": 103
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0501",
-    "subtipo_nombre": "DESASTRES",
-    "tipo_codigo": "050107",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 104
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050201",
-    "tipo_nombre": "CORTE DE FLUIDO ELÉCTRICO / AGUA / INTERNET /GAS / TELÉFONO",
-    "activo": true,
-    "orden": 105
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050202",
-    "tipo_nombre": "ANIEGOS Y/O PROBLEMAS DE DESAGÜE",
-    "activo": true,
-    "orden": 106
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050203",
-    "tipo_nombre": "SEMÁFOROS APAGADOS O CON DESPERFECTOS",
-    "activo": true,
-    "orden": 107
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050204",
-    "tipo_nombre": "CAÍDA DE POSTES, CABLES, ÁRBOLES U OTROS",
-    "activo": true,
-    "orden": 108
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050205",
-    "tipo_nombre": "VIVENDAS COLAPSADAS",
-    "activo": true,
-    "orden": 109
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050206",
-    "tipo_nombre": "BUZONES SIN TAPA",
-    "activo": true,
-    "orden": 110
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050207",
-    "tipo_nombre": "TRABAJO DE TERCEROS (INFORMAL Y/O SIN CONDICIONES DE SEGURIDAD)",
-    "activo": true,
-    "orden": 111
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0502",
-    "subtipo_nombre": "INFRAESTRUCTURA Y SERVICIOS ESENCIALES AFECTADOS",
-    "tipo_codigo": "050208",
-    "tipo_nombre": "OTROS",
-    "activo": true,
-    "orden": 112
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050301",
-    "tipo_nombre": "PARQUES Y CALLES SIN ILUMINACIÓN O DEFICIENTE",
-    "activo": true,
-    "orden": 113
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050302",
-    "tipo_nombre": "OBRAS INCONCLUSAS EN LA VIA PÚBLICA",
-    "activo": true,
-    "orden": 114
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050303",
-    "tipo_nombre": "CONSTRUCCIONES ABANDONADAS",
-    "activo": true,
-    "orden": 115
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050304",
-    "tipo_nombre": "VIAS SEMI OBSTRUIDAS (POR BACHES PROFUNDOS O GRAN CONGESTIÓN VEHÍCULAR)",
-    "activo": true,
-    "orden": 116
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050305",
-    "tipo_nombre": "MOBILIARIO URBANO DETERIORADO Y/O FALTA DE MANTENIMIENTO",
-    "activo": true,
-    "orden": 117
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050306",
-    "tipo_nombre": "VENTA DE MERCADERÍA USADA (CACHINAS)",
-    "activo": true,
-    "orden": 118
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050307",
-    "tipo_nombre": "TALLERES EN LA VIA PÚBLICA",
-    "activo": true,
-    "orden": 119
-  },
-  {
-    "modalidad_codigo": "05",
-    "modalidad_nombre": "EMISIÓN DE ALERTAS TEMPRANAS EN DESASTRES, INFRAESTRUCTURA, SERVICIOS Y ESPACIOS PÚBLICOS AFECTADOS Y EN RIESGO",
-    "subtipo_codigo": "0503",
-    "subtipo_nombre": "ESPACIOS PÚBLICOS EN RIESGO",
-    "tipo_codigo": "050308",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 120
-  },
-  {
-    "modalidad_codigo": "06",
-    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
-    "subtipo_codigo": "0601",
-    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
-    "tipo_codigo": "060101",
-    "tipo_nombre": "SUICIDIO",
-    "activo": true,
-    "orden": 121
-  },
-  {
-    "modalidad_codigo": "06",
-    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
-    "subtipo_codigo": "0601",
-    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
-    "tipo_codigo": "060102",
-    "tipo_nombre": "INTENTO DE SUICIDIO",
-    "activo": true,
-    "orden": 122
-  },
-  {
-    "modalidad_codigo": "06",
-    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
-    "subtipo_codigo": "0601",
-    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
-    "tipo_codigo": "060103",
-    "tipo_nombre": "MUERTE REPENTINA Y/O NATURAL (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 123
-  },
-  {
-    "modalidad_codigo": "06",
-    "modalidad_nombre": "ACONTECIMIENTOS ESPECIALES",
-    "subtipo_codigo": "0601",
-    "subtipo_nombre": "PRESUNTOS ACONTECIMIENTOS ESPECIALES",
-    "tipo_codigo": "060104",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 124
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0701",
-    "subtipo_nombre": "OPERATIVO MUNICIPAL",
-    "tipo_codigo": "070101",
-    "tipo_nombre": "OPERATIVO PREVENTIVO",
-    "activo": true,
-    "orden": 125
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0701",
-    "subtipo_nombre": "OPERATIVO MUNICIPAL",
-    "tipo_codigo": "070102",
-    "tipo_nombre": "PROTECCIÓN ESCOLAR",
-    "activo": true,
-    "orden": 126
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0701",
-    "subtipo_nombre": "OPERATIVO MUNICIPAL",
-    "tipo_codigo": "070103",
-    "tipo_nombre": "ACELERAMIENTO Y DESCONGESTION VEHÍCULAR",
-    "activo": true,
-    "orden": 127
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0701",
-    "subtipo_nombre": "OPERATIVO MUNICIPAL",
-    "tipo_codigo": "070104",
-    "tipo_nombre": "OTROS OPERATIVOS MUNICIPALES (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 128
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070201",
-    "tipo_nombre": "EN APOYO A LA PNP EN PROGRAMAS PREVENTIVOS (ESPECIFICAR LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 129
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070202",
-    "tipo_nombre": "APOYO A OTRAS ENTIDADES EN PROGRAMAS PREVENTIVOS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 130
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070203",
-    "tipo_nombre": "SERENAZGO SIN FRONTERAS",
-    "activo": true,
-    "orden": 131
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070204",
-    "tipo_nombre": "PATRULLAJE MIXTO (SERENAZGO, JUNTAS VECINALES Y PNP)",
-    "activo": true,
-    "orden": 132
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070205",
-    "tipo_nombre": "CONTACTO Y CONTROL CIUDADANO",
-    "activo": true,
-    "orden": 133
-  },
-  {
-    "modalidad_codigo": "07",
-    "modalidad_nombre": "OPERATIVOS",
-    "subtipo_codigo": "0702",
-    "subtipo_nombre": "ESTRATEGIAS Y OPERATIVOS ESPECIALES",
-    "tipo_codigo": "070206",
-    "tipo_nombre": "OTROS (ESPECIFICAR EN LA SECCIÓN DATOS IMPORTANTES DEL FORMATO DE OCURRENCIAS)",
-    "activo": true,
-    "orden": 134
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Lugar de venta de animales",
+    "descripcion": "Mercados informales o establecimientos no regulados para la comercialización de animales domésticos o silvestres, donde frecuentemente se incumplen normas de bienestar animal y sanitarias, generando riesgos para la salud pública."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Lugar de venta de alimentos sin control sanitario",
+    "descripcion": "Establecimientos informales o ambulantes que comercializan alimentos sin cumplir normas básicas de higiene, poniendo en riesgo la salud de los consumidores por posibles intoxicaciones o enfermedades transmitidas por alimentos"
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Espectáculo público sin permiso via pública o local",
+    "descripcion": "Eventos masivos (conciertos, ferias o presentaciones) realizados sin autorización municipal, que carecen de medidas de seguridad básicas como control de aforo, salidas de emergencia o personal de primeros auxilios, poniendo en riesgo a los asistentes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Locales sin licencia de funcionamiento",
+    "descripcion": "Negocios operando sin autorización municipal formal, lo que implica falta de verificación de condiciones mínimas de seguridad, salubridad y cumplimiento legal, generando riesgos para empleados y clientes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Por Funcionamiento de Bares, Cantinas, Discotecas, etc",
+    "descripcion": "Establecimientos de entretenimiento nocturno operando con irregularidades (horarios no autorizados, exceso de aforo o venta de alcohol a menores), generando disturbios vecinales, violencia y riesgo de emergencias sanitarias."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Lugares con riesgo de agresion, consumo de licor, droga cerca de espacios públicos.",
+    "descripcion": "Zonas de concentración de personas bajo efectos de alcohol/drogas en parques, plazas o entornos escolares, generando inseguridad, violencia callejera y deterioro del espacio público."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Venta de licor fuera de horarios",
+    "descripcion": "Comercios que expenden bebidas alcohólicas en horarios no autorizados (generalmente después de media noche), incrementando riñas callejeras, accidentes de tránsito y disturbios vecinales."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "bodega u otros facilitan el consumo de licor en vía pública",
+    "descripcion": "Establecimientos que venden alcohol para consumo inmediato en la calle (con mesas o expendio en puerta), generando focos de embriaguez pública, orina en espacios comunes y alteración del orden."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Cabina de internet sin filtro pornográfico",
+    "descripcion": "Establecimientos de acceso a internet que no implementan sistemas de bloqueo a contenido adulto, exponiendo a menores de edad a material inapropiado y vulnerando leyes de protección infantil."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Lugar de venta de drogas ó microcomercialización",
+    "descripcion": "Puntos de distribución minorista de sustancias ilegales en espacios públicos o locales clandestinos, que fomentan la delincuencia, el consumo en la vía pública y la degradación del tejido social."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Puntos de reciclaje ilegal",
+    "descripcion": "Acopio no autorizado de materiales reciclables en espacios públicos o lotes baldíos, que genera focos de insalubridad, acumulación de residuos peligrosos y atrae actividades delictivas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Paradero informal de vehículos Mototaxi, taxi, etc.",
+    "descripcion": "Concentración no autorizada de vehículos de transporte público (combis, taxis, mototaxis) que ocupan vías principales de manera desordenada, generando caos vehicular y riesgos para peatones."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "CACHINA venta de artículos usados de dudosa procedencia, informales, o ilegaless",
+    "descripcion": "Comercio informal de objetos usados (electrodomésticos, herramientas, ropa) sin facturas ni garantías, donde frecuentemente se comercializan artículos robados o de origen ilegal, fomentando mercados negros."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "Presunta contaminación y venta de sustancias peligrosas",
+    "descripcion": "Comercio ilegal de productos químicos, tóxicos o contaminantes (plaguicidas prohibidos, combustibles adulterados, etc.) que ponen en riesgo la salud pública y el medio ambiente, frecuentemente asociado a redes informales."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades económicas informales, ilegales o de riesgo",
+    "nivel3": "PRESUNTAS LESIONES (MUY LEVES) conta la persona",
+    "descripcion": "Agresiones físicas menores (empujones, arañazos o golpes sin consecuencias graves) que generen conflictos entre vecinos u otros pero no requieren atención médica inmediata, aunque deben documentarse para prevenir escaladas de violencia."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Reciclador de basura no autorizado",
+    "descripcion": "Personas que realizan acopio informal de residuos sólidos sin permiso municipal, generando acumulación peligrosa de desechos, focos de insalubridad y deterioro del espacio público."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Persona sospechosa",
+    "descripcion": "Individuos con comportamientos anómalos (merodeo, revisión de viviendas o intento de forzar vehículos) que generan alerta vecinal por posible planeamiento de robos u otros ilícitos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Vehículo sospechoso (uno solo)",
+    "descripcion": "Automotor con comportamientos anómalos (circulación lenta y repetitiva en una zona, ocupantes tomando fotos de viviendas, o placas adulteradas), posiblemente realizando reconocimiento para actividades delictivas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Pandilla (barrial, escolar, y deportiva: \"barra brava\")",
+    "descripcion": "Grupos organizados que generan violencia callejera (peleas territoriales, vandalismo), afectando la seguridad de vecinos y comerciantes, con posibles vínculos a redes delictivas mayores."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "(CONSUMO DE LICOR O DROGA)en espacio público o dentro de un vehículo",
+    "descripcion": "Personas ebrias o drogadas en calles,parques,vehículos, etc con evidencias de consumo (envases, síntomas). Si el serenazgo los despierta y se van, se registra como consumo, no como persona en estado de abandono.. Si estan inconscientes y es necesario la presencia de una ambulancia sera un axulio por problema de salud."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Faltas contra la moral publica",
+    "descripcion": "Conductas inapropiadas en espacios públicos (exhibicionismo, actos obscenos o prostitución visible) que afectan el pudor, la decencia y la convivencia ciudadana, especialmente en zonas cercanas a colegios o parques infantiles."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Mendicidad en zonas públicas",
+    "descripcion": "Personas que solicitan dinero o alimentos en calles, semáforos o transporte público, generando situaciones de vulnerabilidad social y posibles redes de explotación, especialmente cuando involucran menores o personas con discapacidad."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Incumplimiento de normas de hospedaje",
+    "descripcion": "Establecimientos de alojamiento (hoteles, hostales o pensiones) que operan sin registro sanitario o permisos municipales, incumpliendo normas de seguridad contra incendios, salubridad y registro de huéspedes, generando riesgos de trata de personas y delitos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Incumplimiento de normas de seguridad en inmuebles o establecimientos incluye andamios",
+    "descripcion": "Edificios o negocios que violan regulaciones de protección civil (salidas de emergencia bloqueadas, extintores vencidos o estructuras inseguras), poniendo en riesgo la vida de ocupantes y primeros respondientes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Meretricio",
+    "descripcion": "Ejercicio de prostitución en espacios públicos (calles, parques o vehículos), generando deterioro del tejido social, riesgos sanitarios y posibles redes de explotación sexual."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "trabajo sexual clandestino en inmueble (sala de masajes, sauna, etc)",
+    "descripcion": "Negocios encubiertos como spas o salones de masajes que operan como prostíbulos ilegales, violando normas municipales y de salud, con frecuentes vínculos a explotación sexual y trata de personas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "Talleres en la vía pública",
+    "descripcion": "Reparaciones vehiculares informales en calles o veredas que ocupan espacio público, generando obstrucción vial, derrames de aceite y riesgo de accidentes por herramientas o piezas abandonadas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Actividades ilegales o conductas de riesgo",
+    "nivel3": "PRESUNTAS PERSONAS QUE MICCIONAN EN VIA PÚBLICA",
+    "descripcion": "Individuos orinando en espacios públicos (calles, paredes o parques), generando insalubridad, malos olores y deterioro del ornato urbano, con posible sanción municipal como falta contra la moral pública."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Vía con señalización inadecuada o sin señalización",
+    "descripcion": "Calles o avenidas con falta de señales de tránsito (pare, ceda el paso) o demarcación vial deteriorada, aumentando el riesgo de accidentes vehiculares y conflictos de circulación."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Obstrucción en la vía pública (desmonte, etc)",
+    "descripcion": "Acumulación de materiales de construcción, desmonte o escombros en calles y aceras, que bloquean el paso peatonal/vehicular y generan riesgos de accidentes e insalubridad."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Cierre de vías públicas sin autorización",
+    "descripcion": "Bloqueo ilegal de calles o avenidas (por protestas, fiestas privadas o obras), obstruyendo el tránsito, retrasando emergencias y violando el libre tránsito garantizado por ley."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Paneles publicitarios en la vía pública no autorizados",
+    "descripcion": "Publicidad exterior ilegal (vallas, carteles o pantallas) instalada sin permiso municipal, que distrae a conductores, daña el paisaje urbano y incumple normas de seguridad estructural."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Panel con excesiva iluminación",
+    "descripcion": "Publicidad luminosa con intensidad o parpadeo fuera de norma, que deslumbra a conductores y vecinos, generando contaminación lumínica y riesgo de accidentes viales nocturnos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Vía de alto tránsito sin puente peatonal",
+    "descripcion": "Avenidas o carreteras con flujo vehicular intenso y cruces peatonales inseguros, obligando a peatones a arriesgar su vida al atravesar la calzada directamente."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Paradero informal de personas",
+    "descripcion": "Agrupación no autorizada de transeúntes en calles o esquinas que obstruyen aceras y cruces peatonales, generando congestión, riesgo de atropellos y posibles robos por aglomeraciones."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Comercio ambulatorio en vias de transito vehicular",
+    "descripcion": "Vendedores informales que ocupan calzadas o cruces peatonales para ofrecer productos, obstruyendo el flujo vehicular y aumentando riesgos de atropellos o accidentes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Vehículos mal estacionamiento",
+    "descripcion": "Autos, motos o camiones parqueados en lugares prohibidos (aceras, cruces peatonales o vías exclusivas), obstruyendo el tránsito y poniendo en riesgo a peatones y ciclistas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Semáforo en mal estado o deficiente",
+    "descripcion": "Señales luminosas de tránsito con fallas (luces apagadas, intermitentes o desincronizadas), generando caos vehicular y alto riesgo de colisiones o atropellos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Piques y carreras de vehículos",
+    "descripcion": "Competencias ilegales de autos o motos en vías públicas, con exceso de velocidad y maniobras temerarias, poniendo en peligro a transeúntes, conductores y propiedades aledañas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Velocidades no permitidas en vías reguladas",
+    "descripcion": "Conductores que exceden los límites de velocidad establecidos (zonas escolares, residenciales o peatonales), incrementando el riesgo de atropellos mortales y colisiones graves."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Colocación de rejas vehiculares y/o peatonales sin autorización",
+    "descripcion": "Instalación ilegal de barreras físicas (cadenas, bolardos o rejas) en vías públicas, que obstruyen el libre tránsito de peatones y vehículos, violando normas de accesibilidad urbana."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Artista callejero en intersección de vías",
+    "descripcion": "Presentaciones artísticas no autorizadas (malabaristas, mimos o músicos) en cruces semafóricos, que distraen a conductores y generan riesgos de atropellos o accidentes por congestionamiento vehicular."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Llamadores, jaladores, parqueadores o reparadores de vía (informales)",
+    "descripcion": "Personas no autorizadas que interceptan vehículos en vías públicas para ofrecer servicios de estacionamiento, reparación o guía, generando caos vehicular y riesgos de robos o estafas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Vendedor informal en las intersecciones de calles o avenidas principales",
+    "descripcion": "Comerciantes ambulantes que ocupan cruces vehiculares o esquinas para vender productos, obstruyendo la visibilidad de conductores y peatones, y generando congestionamiento peligroso."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Vehículo de transporte de carga masiva a baja velocidad en carril de vía rápida.",
+    "descripcion": "Camiones o maquinaria pesada circulando a baja velocidad en carriles designados para tránsito veloz, provocando congestionamientos, frenadas bruscas y riesgo de colisiones por alcance."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Transporte público fuera de ruta",
+    "descripcion": "Unidades de transporte masivo (buses, combis) que se desvían de sus recorridos autorizados, generando desorden en el sistema, demoras para usuarios y competencia desleal con rutas establecidas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Uso excesivo del claxon",
+    "descripcion": "Conductores que hacen uso innecesario y prolongado de la bocina, generando contaminación acústica, estrés vecinal y confusión vial (especialmente cerca de hospitales y zonas escolares)."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Infraestructura vial inadecuada",
+    "descripcion": "Diseño o mantenimiento deficiente de calles y carreteras (baches, drenajes tapados o falta de señalización), que incrementa accidentes de tránsito y daños vehiculares."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Limpiadores de vehiculos en via de transito",
+    "descripcion": "Personas que lavan autos en plena calzada o intersecciones, obstruyendo el tránsito, generando encharcamientos peligrosos y exponiéndose a atropellos por circular entre vehículos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "Llamadores, jaladores, parqueadores o reparadores de vía (informales))",
+    "descripcion": "Personas no autorizadas que interceptan vehículos en plena vía para ofrecer servicios de estacionamiento, reparaciones rápidas o guías informativas, generando caos vehicular y riesgo de accidentes o robos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Afectaciones a las normas de tránsito",
+    "nivel3": "CONDUCIR VEHÍCULO NO MOTORIZADO A EXCESIVA VELOCIDAD /O CONFIAR VEHICULO A MENOR DE EDAD O INEXPERTO",
+    "descripcion": "Uso peligroso de bicicletas, patinetas o carretas (sin luces, frenos o en manos de menores), generando atropellos a peatones y colisiones con automóviles por falta de pericia o exceso de velocidad."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Derrumbe",
+    "descripcion": "Desprendimiento repentino de tierra, rocas o estructuras en laderas, cerros o edificios, que pone en peligro viviendas, vías y personas, requiriendo evacuación inmediata y evaluación de daños."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Huaico, deslizamiento de lodo y o piedras",
+    "descripcion": "Flujo repentino de lodo, rocas y escombros por quebradas o laderas, arrasando todo a su paso (viviendas, cultivos, vías), con alto riesgo de víctimas mortales y aislamiento de comunidades."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Incendio urbano, rural o forestal (inmueble, vehículo, parque, etc.)",
+    "descripcion": "Fuego no controlado que consume estructuras, vehículos o áreas naturales, poniendo en riesgo vidas humanas, bienes materiales y el equilibrio ecológico, con propagación acelerada según condiciones climáticas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Inundación",
+    "descripcion": "Acumulación anormal de agua en zonas urbanas o rurales por lluvias intensas, desbordes de ríos o fallas en drenajes, que destruye propiedades, bloquea vías y pone en riesgo vidas humanas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Arrojo desmonte, escombros, maleza, O AGUAS SERVIDAS",
+    "descripcion": "Vertido ilegal de residuos de construcción, basura o aguas residuales en espacios públicos, generando focos de insalubridad, contaminación ambiental y riesgo de enfermedades."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Humos y olores molestos (nauseabundos)",
+    "descripcion": "Emisiones tóxicas (quemas ilegales, fábricas o aguas estancadas) que generan malos olores y afectan la salud respiratoria de la población, especialmente niños y adultos mayores."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Aniego de agua potable",
+    "descripcion": "Fuga masiva de agua limpia por roturas en tuberías o conexiones clandestinas, generando desperdicio del recurso, inundaciones en vías y riesgo de colapso de suelos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Aniego de desagüe",
+    "descripcion": "Rebose de aguas residuales por colapso de alcantarillas o tuberías rotas, contaminando calles y viviendas con bacterias peligrosas (E. coli, salmonella), y generando crisis sanitarias."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Amago de incendio (pequeño)",
+    "descripcion": "Fuego controlado rápidamente (en basura, pasto seco o recipientes) que no llegó a propagarse, pero requirió intervención para prevenir una emergencia mayor."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "CAÍDA DE POSTES, CABLES, ÁRBOLES U OTROS",
+    "descripcion": "Estructuras (postes eléctricos, árboles grandes o redes de cableado) que colapsan sobre vías públicas, vehículos o viviendas, generando riesgo de electrocución, accidentes y daños materiales."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Ambientales y desastres",
+    "nivel3": "Arrojo de basura fuera del horario permitido",
+    "descripcion": "Depósito de residuos sólidos en calles o contenedores en horarios no autorizados, generando acumulación de desechos, plagas y malos olores que afectan la salubridad pública."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Buzón sin tapa",
+    "descripcion": "Contenedores de basura descubiertos o dañados que permiten la salida de residuos, atraen plagas (ratas, moscas) y generan malos olores, incumpliendo normas de salubridad municipal."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Caída de árbol, cable, poste, panel publicitario, etc que pueda causar daños",
+    "descripcion": "Estructuras en mal estado (árboles enfermos, postes podridos o publicidad insegura) que amenazan con colapsar sobre vías, vehículos o peatones, requiriendo remoción urgente."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Contaminación audible (ruidos molestos)",
+    "descripcion": "Exposición prolongada a sonidos sobre 65 dB (música alta, maquinaria o cláxones) que superan los límites municipales, afectando la salud mental, el descanso y la convivencia vecinal."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Infraestructura pública deteriorada (parques, bancas, jardines, juegos infantiles, etc.)",
+    "descripcion": "Mobiliario urbano en mal estado (bancas rotas, juegos infantiles peligrosos o áreas verdes descuidadas) que pone en riesgo a usuarios y refleja abandono del espacio comunitario."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Inmueble o contruccion abandonado",
+    "descripcion": "Edificios o obras sin actividad prolongada (más de 6 meses), que se convierten en focos de invasiones, drogadicción o vandalismo, degradando la zona y poniendo en riesgo a vecinos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Inmueble inhabitable",
+    "descripcion": "Viviendas o edificios con daños estructurales graves (grietas profundas, techos colapsados o contaminación por químicos) que amenazan la integridad de ocupantes y transeúntes, requiriendo desalojo urgente."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Obras inconclusas en la vía pública",
+    "descripcion": "Trabajos de construcción abandonados o paralizados que obstruyen aceras y calzadas con materiales peligrosos (varillas expuestas, hoyos sin señalizar), generando accidentes e insalubridad."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Fuga de gas",
+    "descripcion": "Escape de gas doméstico, industrial o vehicular (natural, LP o GLP) que genera riesgo inminente de explosión, intoxicación o incendio, requiriendo evacuación inmediata del área afectada."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Vivienda en lugar inadecuado",
+    "descripcion": "Construcciones habitacionales en zonas prohibidas (riberas de ríos, laderas inestables o bajo torres eléctricas), expuestas a inundaciones, derrumbes o electrocuciones, con alto riesgo para sus ocupantes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Vehículo abandonado en la vía pública",
+    "descripcion": "Automóviles, motos o camiones estacionados por más de 15 días sin placas o con evidente abandono (llantas desinfladas, vidrios rotos), ocupando espacio público y atrayendo vandalismo o delitos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Construcción sin licencia municipal",
+    "descripcion": "Edificaciones nuevas o remodelaciones ejecutadas sin aprobación de planos ni supervisión técnica, violando normas de seguridad sísmica, accesibilidad y uso de suelos, con riesgo de colapso o multas."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Demolición sin autorización",
+    "descripcion": "Derribo de estructuras sin permiso municipal ni plan de seguridad, generando escombros peligrosos, polvo tóxico y riesgo para trabajadores/vecinos por falta de medidas de contención."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Establecimiento comercial en malas condiciones de salubridad",
+    "descripcion": "Negocios (restaurantes, bodegas o mercados) operando con graves faltas higiénicas (plagas, alimentos descompuestos o sin refrigeración), poniendo en riesgo la salud de clientes y empleados."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Fauna urbana riesgosa/Enjambre de insectos",
+    "descripcion": null
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Venta o uso de pirotecnicos",
+    "descripcion": null
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Entorno de riesgo",
+    "nivel3": "Corte electrico o problemas electricos",
+    "descripcion": "Interrupción del suministro energético o fallas en la red (cables expuestos, postes dañados) que afectan la seguridad ciudadana, comercios y servicios esenciales, requiriendo reparación urgente."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "COMERCIO AMBULATORIO (Comerciante ambulante en vía pública)",
+    "descripcion": "Vendedores informales que ocupan aceras, cruces peatonales o calzadas para ofrecer productos, obstruyendo el libre tránsito y generando riesgos de atropellos, robos o accidentes vehiculares."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Cambista informal de moneda en la vía pública",
+    "descripcion": "Personas que realizan intercambio de divisas sin autorización en calles o mercados, operando fuera del sistema financiero formal y facilitando posibles estafas o lavado de dinero."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Persona en estado de abandono , desprotección",
+    "descripcion": "Individuos (adultos mayores, niños o discapacitados) incapacitados para valerse por sí mismos en espacios públicos, sin acompañante ni recursos básicos, requiriendo asistencia social."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Escolares uniformados transitando en la vía pública en horario escolar",
+    "descripcion": "Estudiantes que deambulan por calles o centros comerciales durante su jornada educativa, evidenciando posible deserción escolar, ausentismo no justificado o problemas familiares."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Indigentes y personas de grupos vulnerables en lugares frecuentes",
+    "descripcion": "Personas en situación de calle (sin hogar, con adicciones o discapacidad) que ocupan espacios públicos recurrentes (parques, entradas de bancos), requiriendo intervención social y protección de derechos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Orates incomodando negocios públicos ó privados",
+    "descripcion": "Personas con conducta alterada que perturben el orden en locales públicos o privados, requiriendo intervención para evitar riesgos o daños."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Personas en situación de riesgo en espacios públicos",
+    "nivel3": "Personas extraviadas",
+    "descripcion": "Individuos que por edad, condición física o mental han perdido su ubicación y requieren asistencia para reubicación o reunificación familiar."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Lugar de reunión de personas en espacios públicos",
+    "nivel3": "Locales que incumplen la normativa de prohibición de acceso a menores",
+    "descripcion": "Negocios que permiten el acceso de menores a zonas prohibidas por ley (como licorerías o casinos), incurriendo en infracciones administrativas"
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Lugar de reunión de personas en espacios públicos",
+    "nivel3": "Lugar de reunión de consumidores de alcohol o drogas",
+    "descripcion": "Lugares públicos o privados donde se evidencia aglomeración de personas consumiendo bebidas alcohólicas o drogas ilegales, generando riesgo para la seguridad ciudadana y el orden público."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Lugar de reunión de personas en espacios públicos",
+    "nivel3": "Lugar de concentración de vehículos sospechosos (varios)",
+    "descripcion": "Lugar público o privado donde se agrupan vehículos (autos, motos) con indicios de uso en actividades ilícitas (robos, tráfico, desmantelamiento), generando riesgo para la seguridad ciudadana."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Lugar de reunión de personas en espacios públicos",
+    "nivel3": "Lugar de concentración de ciudadanos extranjeros indocumentados",
+    "descripcion": "Lugares con presencia de extranjeros sin estatus migratorio regular, que pueden ameritar intervención de autoridades competentes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Zona sin iluminación o deficiente",
+    "descripcion": "Áreas públicas, calles o espacios comunitarios con ausencia total o insuficiente iluminación artificial, lo que incrementa riesgos de accidentes, delitos y percepción de inseguridad entre los ciudadanos."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Complejo departamental o de vivienda con accesos de libre tránsito y sin vigilancia",
+    "descripcion": "Urbanización o edificio con accesos no restringidos ni monitoreados, incumpliendo estándares básicos de seguridad privada."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Local comercial sin custodia, con disposición de dinero en efectivo",
+    "descripcion": "Negocio con exposición de efectivo y sin protocolos de protección, convirtiéndose en foco de atracción para delitos patrimoniales."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Congestión vehicular",
+    "descripcion": "Acumulación anormal de vehículos que satura las vías, afectando la movilidad y seguridad vial."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Zona perimétrica al centro educativo",
+    "descripcion": "Área inmediatamente adyacente a un colegio, escuela o institución educativa, donde se deben garantizar condiciones de seguridad, orden y movilidad para proteger a estudiantes, docentes y padres de familia."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Centro comercial",
+    "descripcion": "Área comercial de alta concurrencia que concentra múltiples establecimientos (tiendas, restaurantes, cines, etc.) en un espacio delimitado, requiriendo protocolos de seguridad física, control de accesos y gestión de emergencias para garantizar la protección de visitantes, trabajadores y bienes."
+  },
+  {
+    "nivel1": "Factores de riesgo",
+    "nivel2": "Espacios que favorecen robos, pandilla y venta de droga",
+    "nivel3": "Losa o complejo deportivo sin supervisión",
+    "descripcion": "Área deportiva de uso público (canchas, pistas, polideportivos) que opera sin vigilancia presencial, electrónica o mantenimiento adecuado, generando riesgos como: vandalismo, ocupación ilegal, consumo de drogas/alcohol o accidentes por deterioro de infraestructura."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Consecuencia Fatales",
+    "descripcion": "Eventos viales que resultan en la pérdida de vidas humanas, causados por factores como exceso de velocidad, imprudencia, fallas mecánicas o estado de las vías, y que requieren protocolos especializados de atención (médica, legal y forense)."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Daños Materiales ( choque )",
+    "descripcion": "Eventos viales donde se produce colisión entre vehículos y/o objetos fijos, causando solo perjuicios económicos (daños a autos, infraestructura o bienes) sin víctimas mortales o heridos graves."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Atropello",
+    "descripcion": "Evento vial en el que un vehículo impacta a un peatón o ciclista, causando lesiones de diversa gravedad, frecuentemente asociado a exceso de velocidad, desatención del conductor o falta de cruces peatonales seguros."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "incendio de vehiculo",
+    "descripcion": "Evento vial en el que un automóvil, motocicleta o transporte pesado sufre combustión espontánea o provocada tras una colisión, generando riesgo de explosión, intoxicación por humo y afectación a terceros."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Despiste",
+    "descripcion": "Evento vial en el que un vehículo pierde el control y se sale de la vía, sin necesariamente colisionar con otro objeto, debido a factores como exceso de velocidad, condiciones climáticas adversas o fallas mecánicas."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Volcadura",
+    "descripcion": "Evento vial en el que un vehículo pierde estabilidad y vuelca sobre su techo o laterales, generalmente por exceso de velocidad, maniobras bruscas o desbalance de carga, con alto riesgo de lesiones graves para los ocupantes."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Caida de pasajero",
+    "descripcion": "Evento vial donde un ocupante de un vehículo en movimiento es expulsado o cae accidentalmente, ya sea por falta de medidas de seguridad (ej. cinturones), maniobras bruscas o puertas mal aseguradas, generando lesiones de diversa gravedad."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Daños materiales (Choque y fuga)",
+    "descripcion": "Evento vial en el que un vehículo colisiona con otro automotor, infraestructura o propiedad privada (ej. postes, muros), y el responsable abandona el lugar sin identificarse ni asumir responsabilidad, incurriendo en falta administrativa y/o penal."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Atropello y fuga",
+    "descripcion": "Evento vial en el que un conductor atropella a un peatón, ciclista o animal, y huye del lugar sin prestar asistencia, identificarse o reportar el hecho, agravando las consecuencias legales y penales."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "Atropello con Lesiones",
+    "descripcion": "Evento vial en el que un vehículo impacta a un peatón, ciclista o animal, causando daños corporales no mortales (fracturas, traumatismos o heridas), requiriendo atención médica inmediata y reporte obligatorio a autoridades."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "APOYO SUBSIDIARIO A LA PNP , PARA EL CONTROL DE TRANSITO VEHICULAR CUANDO LO SOLICITE",
+    "descripcion": "Intervención coordinada entre autoridades municipales (Serenazgo) y la Policía Nacional del Perú (PNP) para gestionar el flujo vehicular durante accidentes de tránsito, cuando la PNP lo solicite, asegurando orden y facilitando la labor de socorro."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "VEHÍCULOS NO AUTORIZADOS O PROHIBIDOS PARA SERVICIO PÚBLICO",
+    "descripcion": "Eventos viales donde están involucrados automotores que operan ilegalmente en el servicio de transporte público (ej. combis piratas, taxis informales o mototaxis no registrados), agravando el riesgo por falta de revisiones técnicas, seguros o condiciones mecánicas adecuadas."
+  },
+  {
+    "nivel1": "Accidentes",
+    "nivel2": "Accidentes de Transito",
+    "nivel3": "OTRAS INFRACCIONES AL RGTO. DE TRÁNSITO.",
+    "descripcion": "causados por infracciones como exceso de velocidad, manejo en estado de ebriedad o bajo efectos de drogas, desobediencia a señales de tránsito (semáforos, stops), uso de celulares al volante, vehículos en mal estado (frenos defectuosos, luces dañadas), maniobras peligrosas (adelantamientos prohibidos), falta de documentación (licencia vencida, SOAT caducado), etc"
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "GRAVES Agresiones fisicas y/o lesiones GRAVES",
+    "descripcion": "Actos violentos que atentan directamente contra la integridad física o la vida de las personas, causando lesiones graves, mutilaciones o muerte, así como la privación ilegal de libertad (secuestro). Estos delitos están tipificados en el Código Penal con penas severas."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "Secuestro",
+    "descripcion": "Privación ilegal de la libertad de una persona, mediante violencia, intimidación o engaño, con fines de extorsión, venganza u otros propósitos ilícitos, tipificado como delito grave en el Código Penal con penas privativas de libertad."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "Intento de suicidio",
+    "descripcion": "Acto en el que una persona realiza acciones autoinfligidas con la intención de quitarse la vida, requiriendo intervención inmediata de autoridades o servicios de salud para su protección y atención integral."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "Actividad terrorista (granadas, explosiciones,etc)",
+    "descripcion": "Acciones violentas que emplean artefactos explosivos, armas de guerra o métodos destructivos con el fin de causar muertes, lesiones masivas o terror colectivo, tipificadas como delitos de terrorismo con penas severas."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "Maltrato sin lesion (agresion mutua (verbales y/o psicologicas)",
+    "descripcion": "Actos de violencia no física entre personas que incluyen insultos, amenazas, humillaciones o acoso constante, generando daño emocional pero sin dejar evidencias físicas inmediatas."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "Agresiones fisicas y/o lesiones LEVES",
+    "descripcion": "Actos de violencia que causan daño corporal mínimo o temporal (moretones, rasguños, dolor sin incapacidad), sin poner en riesgo la vida ni dejar secuelas permanentes."
+  },
+  {
+    "nivel1": "Contra la vida, cuerpo y salud",
+    "nivel2": "Agresiones o secuestro",
+    "nivel3": "PELEAS CALLEJERAS CON LESIONES MUY LEVES O SIN LESIONES",
+    "descripcion": "Enfrentamientos físicos ocasionales en espacios públicos que involucran empujones, golpes menores o forcejeos sin uso de armas, causando lesiones mínimas (moretones, rasguños) o ningún daño físico evidente, generalmente motivadas por discusiones espontáneas o consumo de alcoho."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "trata de personas",
+    "descripcion": "Captación, transporte o explotación de personas mediante violencia, engaño o coerción, con fines de trabajo forzado, prostitución, mendicidad u otros abusos, tipificado como delito grave con penas de prisión."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "violacion a la intimidad",
+    "descripcion": "Acciones que vulneran el derecho a la privacidad de una persona, como grabaciones, fotografías o difusión no consentida de información personal, imágenes o conversaciones privadas, tipificadas como delito en el Código Penal."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "violacion de domicilio",
+    "descripcion": "Ingreso no autorizado a una vivienda, propiedad privada o dependencia cerrada (sin consentimiento del dueño o mediante fuerza/engaño), tipificado como delito contra la libertad personal en el Código Penal."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "violacion sexual o tentativa",
+    "descripcion": "Acto de obligar a una persona a mantener relaciones sexuales o actos análogos contra su voluntad (mediante violencia, amenazas o abuso de autoridad), o el intento fallido de consumarlo, tipificado como delito grave con penas de prisión."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "ofensas y actos contra el pudor",
+    "descripcion": "Actos que vulneran la decencia pública o la integridad sexual de una persona, como exhibicionismo, tocamientos no consentidos o difusión de material obsceno, tipificados como delito."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "acoso y/o acoso sexual",
+    "descripcion": "Conductas reiteradas que atentan contra la dignidad o libertad sexual de una persona, mediante persecución, hostigamiento, proposiciones lascivas o chantaje sexual, generando intimidación o daño psicológico."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "chantaje sexual y/o difusion de imágenes con contenido sexual",
+    "descripcion": "Acciones que buscan coaccionar, extorsionar o dañar a una persona mediante la amenaza o difusión no consentida de material sexual/íntimo (conocido como pornovenganza), tipificadas como delitos graves contra la libertad y honor."
+  },
+  {
+    "nivel1": "Contra la libertad",
+    "nivel2": "Contra la libertad",
+    "nivel3": "PRESUNTA PROPOSICION INMORAL O DESHONESTA",
+    "descripcion": "Actos o insinuaciones verbales, escritas o físicas con connotación sexual o contrarias a la moral pública, que vulneran el derecho a la dignidad y seguridad personal, aunque no lleguen a configurar acoso sexual."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "estafa, falsificacion y otras defraudaciones",
+    "descripcion": "Acciones engañosas o fraudulentas que causan perjuicio económico a personas o instituciones, mediante manipulación de información, documentos falsos o abuso de confianza, tipificadas como delitos contra la propiedad."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "apropiacion ilicita",
+    "descripcion": "Acto en el que una persona se queda con dinero, bienes o propiedades ajenas que tenía bajo su custodia legal (ej: depósitos, encargos), incumpliendo el deber de devolverlos, tipificado como delito de defraudación."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "extorsion y chantaje",
+    "descripcion": "Actos ilícitos donde se obtiene dinero, bienes o beneficios mediante amenazas (violencia, daño reputacional o difusión de información privada), coaccionando a la víctima para forzar su entrega."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "daños a la propiedad privada",
+    "descripcion": "Destrucción, deterioro o inutilización intencional de bienes muebles o inmuebles ajenos (ej: grafiti vandalico, rotura de ventanas, incendio provocado), generando perjuicio económico y tipificado como delito."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "daños a la propiedad pública pista, veredas y otros",
+    "descripcion": "Destrucción, deterioro o alteración intencional de infraestructura estatal o bienes de uso común (ej: asfalto, bancas, semáforos, parques), afectando servicios públicos y generando costos de reparación."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "delitos informaticos",
+    "descripcion": "Acciones ilícitas realizadas mediante tecnologías digitales para obtener beneficios económicos, dañar sistemas o robar información, tipificadas como fraudes o ataques contra la propiedad."
+  },
+  {
+    "nivel1": "Contra el patrimonio",
+    "nivel2": "Otros contra el patrimonio",
+    "nivel3": "presunto hurto famélico (consumir y no pagar)",
+    "descripcion": "Acto en el que una persona consume alimentos, bebidas u otros bienes de primera necesidad en un establecimiento comercial sin intención de pagar, alegando necesidad extrema como justificación."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "conduccion en estado de ebriedad y/o drogadiccion",
+    "descripcion": "Acto de manejar un vehículo bajo los efectos del alcohol (superando los límites legales permitidos) o drogas ilegales, poniendo en riesgo la vida de terceros y tipificado como delito grave con penas de prisión y multas."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "conduccion sin documentos",
+    "descripcion": "Manejar un vehículo sin portar los documentos obligatorios vigentes (licencia de conducir, SOAT, tarjeta de propiedad o revisión técnica), incumpliendo las normas de tránsito y generando riesgo vial."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "uso y tenencia de armas de fuego",
+    "descripcion": "Posesión, portación o empleo de armas de fuego sin autorización legal, o su uso en lugares prohibidos, generando riesgo colectivo y tipificado como delito grave con penas de prisión."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "ostentación indebida y pública de función, cargo o título",
+    "descripcion": "Acto de atribuirse falsamente un cargo, profesión o título académico (ej: médico, abogado, funcionario público) sin tener la certificación legal, con el fin de obtener beneficios o engañar a terceros, tipificado como delito de usurpación de funciones."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "herido por arma de fuego",
+    "descripcion": "Evento en el que una persona sufre lesiones causadas por disparos de armas de fuego (ya sea en riñas, ataques deliberados o accidentes), generando intervención policial y médica de emergencia, y que puede configurar delitos como homicidio en grado de tentativa o lesiones graves."
+  },
+  {
+    "nivel1": "contra la seguridad publica",
+    "nivel2": "contra la seguridad publica",
+    "nivel3": "PRESUNTO CONTRA EL TRANSPORTE (CONTRA LA SEGURIDAD COMUN Y ENTORPECIMIENTO DEL SERVICIO)",
+    "descripcion": "Acciones que alteran el funcionamiento seguro del transporte público o privado (ej: sabotaje a vías, obstrucción de rutas, agresiones a conductores), poniendo en riesgo a pasajeros y afectando servicios esenciales, tipificadas como atentados contra la seguridad colectiva."
+  },
+  {
+    "nivel1": "Contra la humanidad",
+    "nivel2": "Contra la humanidad",
+    "nivel3": "Discriminación, Lesa Humanidad, Genocidio, Desaparición, Tortura",
+    "descripcion": "Crímenes masivos o sistemáticos que atentan contra grupos humanos por su identidad, etnia, religión u otras características, violando derechos fundamentales y el derecho internacional."
+  },
+  {
+    "nivel1": "Defensa civil",
+    "nivel2": "Defensa civil",
+    "nivel3": "depositos de alto riesgo",
+    "descripcion": "Instalaciones que almacenan sustancias peligrosas (químicos, inflamables, explosivos o radiactivos) sin cumplir normas de seguridad, generando riesgo de incendios, explosiones o contaminación masiva para la población circundante."
+  },
+  {
+    "nivel1": "Contra animales",
+    "nivel2": "Contra animales",
+    "nivel3": "abandono y actos de crueldad contra animales",
+    "descripcion": "Acciones u omisiones que causan sufrimiento innecesario, lesiones o muerte a animales domésticos o silvestres, tipificadas como delitos penales en leyes de protección animal."
+  },
+  {
+    "nivel1": "Contra animales",
+    "nivel2": "Contra animales",
+    "nivel3": "envenenamiento",
+    "descripcion": "Acto de suministrar sustancias tóxicas (pesticidas, raticidas o químicos) a animales domésticos o silvestres, causándoles dolor, sufrimiento o muerte, tipificado como crueldad animal con sanciones penales y multas."
+  },
+  {
+    "nivel1": "Violencia contra la mujer y/o integrantes del grupo familiar",
+    "nivel2": "Violencia familiar",
+    "nivel3": "violencia económica y patrimonial",
+    "descripcion": "Acciones u omisiones que afectan la autonomía económica de un miembro de la familia, mediante control abusivo de recursos, destrucción de bienes o limitación de acceso a ingresos, vulnerando su dignidad y sustento básico."
+  },
+  {
+    "nivel1": "Violencia contra la mujer y/o integrantes del grupo familiar",
+    "nivel2": "Violencia familiar",
+    "nivel3": "violencia fisica",
+    "descripcion": "Actos que causan daño corporal mediante golpes, empujones, quemaduras u otros medios violentos dentro del ámbito familiar o de pareja, tipificados como delito con penas de prisión y medidas de protección."
+  },
+  {
+    "nivel1": "Violencia contra la mujer y/o integrantes del grupo familiar",
+    "nivel2": "Violencia familiar",
+    "nivel3": "violencia sexual",
+    "descripcion": "Actos que atentan contra la libertad sexual de una persona en el ámbito familiar o de pareja, mediante coerción, amenazas o abuso de autoridad, incluyendo tocamientos no consentidos, violación o explotación sexual."
+  },
+  {
+    "nivel1": "Violencia contra la mujer y/o integrantes del grupo familiar",
+    "nivel2": "Violencia familiar",
+    "nivel3": "violencia psicologica",
+    "descripcion": "Patrón de conducta que causa daño emocional mediante humillaciones, amenazas, aislamiento o control abusivo, degradando la autoestima y salud mental de la víctima dentro del ámbito familiar o de pareja."
+  },
+  {
+    "nivel1": "Violencia contra la mujer y/o integrantes del grupo familiar",
+    "nivel2": "Violencia familiar",
+    "nivel3": "Tocamientos Indebidos",
+    "descripcion": "Actos de naturaleza sexual no consentidos, como tocamientos, manoseos o frotamientos contra el cuerpo de una persona en el ámbito familiar o de pareja, tipificados como delitos contra la libertad sexual."
+  },
+  {
+    "nivel1": "Otras Capturas",
+    "nivel2": "Captura",
+    "nivel3": "personas requisitoriadas",
+    "descripcion": "Individuos con orden de captura vigente emitida por autoridad judicial (juez o fiscalía) por estar vinculados a procesos penales en curso, cuya ubicación y aprehensión es prioritaria para el sistema de justicia."
+  },
+  {
+    "nivel1": "Otras Capturas",
+    "nivel2": "Captura",
+    "nivel3": "otros",
+    "descripcion": "Otras detenciones no especificadas en categorías anteriores"
+  },
+  {
+    "nivel1": "Activación de Alarmas",
+    "nivel2": "Activación de Alarmas",
+    "nivel3": "De viviendas o locales comerciales",
+    "descripcion": "Eventos en los que se disparan sistemas de seguridad electrónicos (sirenas, sensores) en propiedades privadas, indicando posible intrusión, robo o emergencia, y que requieren verificación inmediata por serenazgo o policía."
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Areas MDSA",
+    "descripcion": "Apoyo a otras áreas de la municipalidad para eldesarrollo social"
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Apoyo al contribuyente",
+    "descripcion": "Es un servicio que orienta, resuelve consultas (por ejemplo tramites) y asiste al vecinos con el respaldo de serenazgo."
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Instituciones Educativas - Escuela Segura",
+    "descripcion": "Programa de seguridad preventiva que busca proteger a estudiantes, docentes y personal educativo mediante acciones coordinadas entre serenazgo, policía y comunidad, para prevenir delitos, violencia o emergencias en entornos escolares."
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Instituciones Educativas - Eventos",
+    "descripcion": "Respaldo operativo de serenazgo para garantizar seguridad en actividades escolares (ceremonias, deportivas o culturales), mediante vigilancia perimetral, control de accesos y coordinación con autoridades, previniendo riesgos o disturbios."
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Puestos de Salud",
+    "descripcion": "Atención en centros de salud para garantizar acceso"
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Servicio a la Comunidad",
+    "descripcion": "El serenazgo apoya a la comunidad derivando casos a DEMUNA, asistiendo a adultos mayores (con traslados seguros si es necesario), apoyando en ferias locales y trabajando en red con líderes vecinales para fortalecer la seguridad barrial, etc"
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Producto de otro informe",
+    "descripcion": "Informes generados a partir de otros reportes existentes"
+  },
+  {
+    "nivel1": "Apoyo",
+    "nivel2": "Apoyo Comunidades, Instituciones y otros",
+    "nivel3": "Apoyo a la PNP",
+    "descripcion": "El serenazgo brinda apoyo operativo a la Policía Nacional del Perú (PNP) en el marco de sus facultades, colaborando en labores de seguridad ciudadana y orden público bajo coordinación institucional."
+  },
+  {
+    "nivel1": "Auxilio",
+    "nivel2": "Auxilio",
+    "nivel3": "Personas con Problemas de Salud o accidentes cotidianos",
+    "descripcion": "Serenazgo brinda primeros auxilios básicos y apoyo inmediato a personas que sufren emergencias médicas (desmayos, heridas leves, crisis hipertensivas) o accidentes comunes (caídas, fracturas), coordinando con sistemas de salud para su traslado si es necesario. Nota: el serenazgo no reemplaza a personal médico"
+  },
+  {
+    "nivel1": "Auxilio",
+    "nivel2": "Auxilio",
+    "nivel3": "Personas pepeadas",
+    "descripcion": "El serenazgo brinda primeros auxilios básicos a personas bajo efectos de drogas o alcohol (inconscientes, agitadas o en crisis), priorizando su estabilización y traslado a centros de salud, en coordinación con la PNP si hay riesgo para terceros."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Accidente Cotidiano",
+    "descripcion": "El serenazgo actúa ante el fallecimiento de una persona por causas naturales o accidentes no violentos (ej: infartos, caídas), asegurando el perímetro, preservando la escena y coordinando con la PNP y medicina legal para el levantamiento del cadáver."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Homicidio",
+    "descripcion": "El serenazgo actúa ante la muerte violenta de una persona (por arma blanca, arma de fuego u otro medio), asegurado el área, protegiendo evidencias y coordinando de inmediato con la PNP y el Ministerio Público para la investigación criminal."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Muerte Natural",
+    "descripcion": "El serenazgo interviene ante el fallecimiento natural de una persona (por enfermedad, vejez u otras causas médicas no violentas), asegurando el respeto al cadáver, coordinando con autoridades sanitarias y familiares, y preservando la dignidad del occiso mientras se realiza el protocolo correspondiente."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Otros",
+    "descripcion": "El serenazgo interviene ante fallecimientos que no encajan en las categorías convencionales muertes por causas indeterminadas o hallazgos de restos humanos, asegurando el perímetro y coordinando con la PNP y Medicina Legal para la investigación correspondiente."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Feminicidio",
+    "descripcion": "El serenazgo actúa ante el asesinato de una mujer por razones de género (violencia machista, relación de pareja o familiar), protegiendo la escena del crimen con máxima prioridad, coordinando de inmediato con la PNP y fiscalía, y brindando apoyo humanitario a familiares presentes."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Sicariato",
+    "descripcion": "El serenazgo interviene ante homicidios cometidos por encargo (ejecuciones planificadas con armas de fuego o métodos profesionales), asegurando la escena con extremo cuidado por el alto riesgo de represalias, coordinando con la División de Homicidios de la PNP y la Fiscalía Anticorrupción."
+  },
+  {
+    "nivel1": "Deceso de Persona",
+    "nivel2": "Deceso de Persona",
+    "nivel3": "Suicidio",
+    "descripcion": "El serenazgo actúa ante casos de muerte autoinfligida, asegurando el perímetro con sensibilidad, preservando evidencias (notas, objetos personales) y coordinando con la PNP y Medicina Legal, priorizando el respeto a la víctima y la contención a familiares."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por alarma de vehículos y/o bocina",
+    "descripcion": "Reporte por activación innecesaria y prolongada de alarmas vehiculares o uso excesivo de bocinas, que superan los decibeles permitidos y alteran la tranquilidad pública, especialmente en horarios nocturnos"
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por animales",
+    "descripcion": "Reporte por ladridos, maullidos u otros sonidos de mascotas en horarios prolongados que afectan la tranquilidad del vecindario, especialmente de noche (10 PM - 6 AM), y que no son atendidos por sus dueños."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por trabajos en viviendas",
+    "descripcion": "Reporte por actividades de construcción, remodelación o reparaciones en horarios no autorizados (generalmente entre 10:00 PM y 6:00 AM), que generan niveles de ruido excesivos y afectan la tranquilidad del vecindario."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por construcción fuera de horario",
+    "descripcion": "Denuncia por actividades de construcción (obras civiles, demoliciones o reparaciones) que se realizan fuera del horario permitido por la ordenanza municipal, generando contaminación acústica que afecta la tranquilidad vecinal."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por máquinas y/o motores",
+    "descripcion": "Reporte por funcionamiento excesivo de equipos industriales, generadores eléctricos, maquinaria pesada o motores de vehículos que superan los decibeles permitidos, afectando la tranquilidad pública y la salud de los vecinos."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por música y/o fiesta",
+    "descripcion": "Reporte por sonido excesivo de equipos de audio (altavoces, parlantes) o celebraciones que superan los límites de decibeles permitidos, especialmente en horario nocturno (10:00 PM - 6:00 AM), afectando la convivencia vecinal."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por actividades en colegios",
+    "descripcion": "Reporte por actividades escolares (eventos deportivos, ceremonias o uso de altavoces) que generan niveles de ruido excesivos y prolongados, afectando a vecinos y zonas aledañas al centro educativo."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Ruidos por instrumentos musicales, silbatos y/o campanas",
+    "descripcion": "Reporte por sonidos generados por instrumentos musicales (baterías, trompetas, etc.), silbatos o campanas que exceden los niveles permitidos por la ordenanza municipal, afectando la tranquilidad del vecindario."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Por ruidos molestos",
+    "nivel3": "Escándalo, gritar y/o vociferar",
+    "descripcion": "Reporte por alteración del orden público debido a gritos, discusiones violentas o vociferaciones excesivas en la vía pública o propiedades privadas, especialmente en horarios nocturnos (10:00 PM - 6:00 AM)."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Armado de Toldos en la Vía Pública",
+    "descripcion": "Reporte por instalación no autorizada de toldos, carpas o estructuras temporales en espacios públicos (veredas, calles o plazas) que obstruyen el libre tránsito peatonal o vehicular, violando normas municipales de uso de suelo."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Instalaciones de Tranqueras y Rejas",
+    "descripcion": "Reporte por colocación no autorizada de estructuras metálicas (tranqueras, rejas o cercos) en vías públicas, veredas o áreas comunes, que obstruyen el libre tránsito peatonal/vehicular o invaden bienes municipales."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Personas de Mal Vivir",
+    "descripcion": "Reporte por individuos con conductas antisociales rrecurrentes en vandalismo, acoso callejero, reunion con delincuentes ; sin constituir necesariamente delitos penales pero requiriendo intervención municipal para restablecer el orden."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Carnavales peligrosos o armado de piscinas en vía pública",
+    "descripcion": "Reporte por actividades de carnaval que ponen en riesgo a la población (juegos con agua no autorizados, uso de pinturas tóxicas o piscinas improvisadas en calles), obstruyendo el tránsito y violando normas municipales de seguridad y salubridad."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Trabajos de Construcción",
+    "descripcion": "Reporte por actividades de construcción que generan molestias a los vecinos debido a ruidos excesivos, acumulación de escombros en vías públicas, polvo o ocupación ilegal de áreas comunes, incumpliendo las normas municipales de construcción y convivencia."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Lavado de vehículo en vía publica",
+    "descripcion": "Reporte por lavado de autos, motos o otros vehículos en calles, veredas o espacios públicos, generando obstrucción al tránsito, desperdicio de agua y contaminación por detergentes, en violación a ordenanzas municipales."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Poda de árboles y jardines",
+    "descripcion": "Poda no autorizada de arboles, Tala indiscriminada , con uso de herramientas peligrosas, etc sin supervision profesional"
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Daño y/o deterioro del ornato",
+    "descripcion": "Reporte por acciones que afectan la funcionalidad de espacios públicos, incluyendo vandalismo (rayado de paredes - grafitti , destrucción de bancas), acumulación de escombros, o mal uso de mobiliario urbano,."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Desorden en vía publica",
+    "descripcion": "Reporte por actividades que alteran el orden en espacios públicos, como aglomeraciones no autorizadas, venta ambulatoria ilegal, obstrucción de veredas o protestas violentas, que afectan la libre circulación y seguridad ciudadana."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Mascotas sin medida de seguridad O MORDEDURA CANINA",
+    "descripcion": "Reporte por tenencia irresponsable de animales domésticos (perros sin correa, bozal o supervisión) que generan riesgo de ataques a personas u otras mascotas, incluyendo casos de mordeduras comprobadas."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Conflictos vecinales",
+    "descripcion": "Reporte por disputas entre residentes de una misma zona, originadas por ruidos molestos, invasión de espacios comunes, problemas de linderos o conductas antisociales, que requieren mediación para evitar escalamiento a violencia."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por Uso de Losa Deportiva Fuera de Horario",
+    "descripcion": "Reporte por utilización de canchas o espacios deportivos municipales fuera del horario establecido (generalmente entre 10:00 PM y 6:00 AM), generando ruidos molestos, desgaste del equipamiento y riesgo de vandalismo."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por eventos sociales en la vía pública",
+    "descripcion": "Reporte por celebración de fiestas, reuniones o actividades masivas en calles, plazas o parques sin autorización municipal, que generan obstrucción al tránsito, ruidos molestos o afectan el ornato público."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por quema de residuos solidos u otros",
+    "descripcion": "Reporte por incineración ilegal de basura, escombros, llantas o desechos agrícolas en espacios públicos o privados, generando contaminación del aire, riesgo de incendios y afectación a la salud vecinal."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Alteración del orden publico, disturbios, apología",
+    "descripcion": "Reporte por actos que generan caos o incitan a la violencia en espacios públicos, como riñas masivas, bloqueos viales no autorizados, discursos que promueven delitos (apología), o resistencia a la autoridad, afectando la convivencia y seguridad ciudadana."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "Por alimentación de palomas",
+    "descripcion": "Reporte por suministro inadecuado o excesivo de alimento a palomas en espacios públicos, generando proliferación de estas aves, acumulación de heces que dañan monumentos y mobiliario urbano, y riesgos sanitarios para la población."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "PRESUNTA USURPACION BREVE Y JUEGOS PROHIBIDOS",
+    "descripcion": "Reporte por ocupación ilegal temporal de bienes públicos o privados (ej: terrenos baldíos, veredas) para actividades ilícitas como apuestas clandestinas, juegos de azar no autorizados o venta de drogas, generando inseguridad y desorden en la zona."
+  },
+  {
+    "nivel1": "Quejas",
+    "nivel2": "Otras quejas",
+    "nivel3": "PRESUNTA DESTRUCCIÓN DE PLANTAS",
+    "descripcion": "Reporte por envenenamiento o daño intencional a árboles y áreas verdes públicas o privadas protegidas, violando normativas ambientales y de ornato municipal.Identificar si hubo permiso de poda/tala (excepto emergencias)."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Operativos Conjunto",
+    "nivel3": "Conjunto entre Serenazgo y PNP",
+    "descripcion": "Intervenciones coordinadas entre el Serenazgo y la Policía Nacional del Perú (PNP) para ejecutar acciones de seguridad ciudadana, como patrullajes integrados, desalojo de ocupaciones ilegales, o fiscalización de locales, bajo un plan preestablecido y con roles definidos."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Operativos Conjunto",
+    "nivel3": "Conjunto entre Serenazgo , PNP y Juntas Vecinales",
+    "descripcion": "Intervenciones coordinadas entre Serenazgo, Policía Nacional (PNP) y Juntas Vecinales de Seguridad Ciudadana para ejecutar acciones preventivas y reactivas en zonas de alta incidencia delictiva, priorizando la inteligencia comunitaria y el abordaje integral."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Operativos Conjunto",
+    "nivel3": "Serenazgo y el ejercito",
+    "descripcion": "Intervenciones excepcionales de seguridad y apoyo en estados de emergencia, desastres, toques de queda, terrorismo urbano, etc."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Operativos Conjunto",
+    "nivel3": "Serenazgo, el ejercito y PNP",
+    "descripcion": "Intervenciones de alta complejidad como crisis de seguridad, terrorismo, toques de queda extendidos, inundaciones con necesidad de evacuacion, etc."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Operativos Conjunto",
+    "nivel3": "Serenazgo sin fronteras con otras municipalidades",
+    "descripcion": "Estrategia de colaboración entre serenazgos de distintas municipalidades para enfrentar delitos, pandillaje, emergencias, e intercambio de inteligencia operativa."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Otros Operativos",
+    "nivel3": "de Transporte (Mototaxis internadas, etc)",
+    "descripcion": "Intervenciones focalizadas para fiscalizar el transporte informal (mototaxis, triciclos motorizados) que operan ilegalmente en zonas prohibidas, generando riesgo vial y desorden en el tránsito."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Otros Operativos",
+    "nivel3": "Fiscalización",
+    "descripcion": "Intervenciones programadas para verificar el cumplimiento de normas municipales en comercios, servicios de transporte y espacios públicos, aplicando sanciones ante irregularidades."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Otros Operativos",
+    "nivel3": "Multisectoriales",
+    "descripcion": "Intervenciones coordinadas entre múltiples instituciones públicas (municipalidad, PNP, SUNAT, DIGESA, etc.) para abordar problemáticas complejas que requieren expertise diverso, como informalidad comercial, contaminación ambiental o delitos económicos."
+  },
+  {
+    "nivel1": "Operativos",
+    "nivel2": "Otros Operativos",
+    "nivel3": "PNP o sus dependencias",
+    "descripcion": "Visualizacion o apoyo a dependencias policiales en sus funciones DIVINCRI DIVIAC DININCRI DIVISION DE TRANSITO ETC"
+  },
+  {
+    "nivel1": "Reforzamiento de patrullaje",
+    "nivel2": "Reforzamiento de patrullaje",
+    "nivel3": "informe GAR",
+    "descripcion": "Informes de gestión de áreas de riesgo (GAR) GRUPO DE ACCION RAPIDA de Serenazgo MDSA"
+  },
+  {
+    "nivel1": "Reforzamiento de patrullaje",
+    "nivel2": "Reforzamiento de patrullaje",
+    "nivel3": "Informe paramedico",
+    "descripcion": "Reportes del paramedico de la MDSA que labora en Serenazgo"
+  },
+  {
+    "nivel1": "Reforzamiento de patrullaje",
+    "nivel2": "Reforzamiento de patrullaje",
+    "nivel3": "informe canino",
+    "descripcion": "Reporte del encargado de la brigada canina de la MDSA"
+  },
+  {
+    "nivel1": "Reforzamiento de patrullaje",
+    "nivel2": "Reforzamiento de patrullaje",
+    "nivel3": "informe MIR (CONTROL SUPERVISION)",
+    "descripcion": "Supervisión de operativos mediante informes MIR Moviles de Intervención"
+  },
+  {
+    "nivel1": "Reforzamiento de patrullaje",
+    "nivel2": "Reforzamiento de patrullaje",
+    "nivel3": "Escuela Segura",
+    "descripcion": "Actividades del programa Escuela Segura"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Comercio",
+    "nivel3": "Con captura",
+    "descripcion": "Robos a comercios con captura de sospechosos"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Comercio",
+    "nivel3": "Sin captura",
+    "descripcion": "Robos a comercios donde los ladrones logran huir"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Domicilio",
+    "nivel3": "Con captura",
+    "descripcion": "Robos a domicilios con detención de implicados"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Domicilio",
+    "nivel3": "Sin captura",
+    "descripcion": "Robos a viviendas sin lograr capturar a los autores"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Transeuntes",
+    "nivel3": "Con captura",
+    "descripcion": "Robos a transeúntes con arresto de los delincuentes"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo a Transeuntes",
+    "nivel3": "Sin captura",
+    "descripcion": "Robos a peatones donde los autores escapan"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Automovil",
+    "nivel3": "Con captura",
+    "descripcion": "Robo de automóviles con recuperación del vehículo"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Automovil",
+    "nivel3": "Sin captura",
+    "descripcion": "Robo de autos sin lograr ubicar el vehículo"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Autopartes",
+    "nivel3": "Con captura",
+    "descripcion": "Robo de autopartes con identificación de responsables"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Autopartes",
+    "nivel3": "Sin captura",
+    "descripcion": "Robo de piezas vehiculares sin pistas de autores"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Vehiculo menor",
+    "nivel3": "Con captura",
+    "descripcion": "Robo de motos o bicicletas con captura de ladrones"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo de Vehiculo menor",
+    "nivel3": "Sin captura",
+    "descripcion": "Robo de vehículos menores sin detención"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo Otros(taxista,pasajero,tapa de buzones,etc)",
+    "nivel3": "Con captura",
+    "descripcion": "Otros robos específicos con detención de sospechosos"
+  },
+  {
+    "nivel1": "Robo",
+    "nivel2": "Robo Otros(taxista,pasajero,tapa de buzones,etc)",
+    "nivel3": "Sin captura",
+    "descripcion": "Robos diversos donde no se logra capturar a los autores"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a comercio",
+    "nivel3": "Con captura",
+    "descripcion": "Hurtos a comercios con recuperación de objetos"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a comercio",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurtos a negocios sin recuperar lo sustraído"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a Domicilio",
+    "nivel3": "Con captura",
+    "descripcion": "Hurtos a viviendas con identificación del autor"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a Domicilio",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurtos domiciliarios sin identificar al responsable"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a Persona",
+    "nivel3": "Con captura",
+    "descripcion": "Hurtos a personas con captura del ladrón"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto a Persona",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurtos a transeúntes donde el autor escapa"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto de Vehículo",
+    "nivel3": "Con captura",
+    "descripcion": "Hurto de vehículos con recuperación de la unidad"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto de Vehículo",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurto de autos sin ubicar el paradero"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto de Vehículo menor",
+    "nivel3": "Con captura",
+    "descripcion": "Hurto de motos o bicicletas con detención"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto de Vehículo menor",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurto de vehículos menores sin lograr captura"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto Otros(taxista,pasajero,etc)",
+    "nivel3": "Con captura",
+    "descripcion": "Otros hurtos específicos con identificación del autor"
+  },
+  {
+    "nivel1": "Hurto",
+    "nivel2": "Hurto Otros(taxista,pasajero,etc)",
+    "nivel3": "Sin captura",
+    "descripcion": "Hurtos varios sin conseguir detener al responsable"
+  },
+  {
+    "nivel1": "Intento de Robo (Subjetivo y cae en la sospecha)",
+    "nivel2": "Intento de Robo",
+    "nivel3": "Intento de Robo o hurto",
+    "descripcion": "Intentos de robo o hurto frustrados por intervención"
+  },
+  {
+    "nivel1": "Intento de Robo (Subjetivo y cae en la sospecha)",
+    "nivel2": "Intento de Robo",
+    "nivel3": "Menores autores de faltas o delitos.",
+    "descripcion": "Menores de 18 años con responsabilidad penal diferenciada y medidas socioeducativas."
+  },
+  {
+    "nivel1": "Orientación al vecino",
+    "nivel2": "Orientación al vecino",
+    "nivel3": "Orientación al Vecino",
+    "descripcion": "Orientación a vecinos sobre seguridad preventiva"
+  },
+  {
+    "nivel1": "robo de ganado",
+    "nivel2": "robo de ganado",
+    "nivel3": "robo de ganado",
+    "descripcion": "Robo de ganado con posible abigeato organizado"
+  },
+  {
+    "nivel1": "hurto de ganado",
+    "nivel2": "hurto de ganado",
+    "nivel3": "hurto de ganado",
+    "descripcion": "Hurto de animales de granja, afectando economía rural"
   }
 ]

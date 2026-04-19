@@ -14,6 +14,10 @@ const incidenciaOperacionController = require('./controllers/incidenciaOperacion
 const auditoriaController = require('./controllers/auditoriaController');
 const adminUsuariosController = require('./controllers/adminUsuariosController');
 const profileAcceptanceController = require('./controllers/profileAcceptanceController');
+const zonasController = require('./controllers/zonasController');
+const tipificacionController = require('./controllers/tipificacionController');
+const pnpController = require('./controllers/pnpController');
+const mapaDelitoController = require('./controllers/mapaDelitoController');
 const uploadMemory = require('./middlewares/uploadMemory');
 const panicRateLimit = require('./middlewares/panicRateLimit');
 const apiKeyMiddleware = require('./middlewares/auth');
@@ -209,7 +213,7 @@ app.post(
   attachActorContext,
   requireInstitutionalActor,
   requireIncidenciaAccess,
-  uploadMemory.array('archivos', 25),
+  uploadMemory.array('archivos', 10),
   incidenciaArchivosController.subir
 );
 app.delete(
@@ -275,6 +279,98 @@ app.post(
   apiKeyMiddleware,
   attachActorContext,
   auditoriaController.registrarEvento
+);
+
+// ── Zonas (geoespacial PostGIS) ──────────────────────────────────────────────
+app.get(
+  '/api/zonas',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  zonasController.listarZonas
+);
+
+app.post(
+  '/api/zonas/importar-geojson',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  zonasController.importarDesdeGeoJSON
+);
+
+// ── Tipificación jerárquica ───────────────────────────────────────────────────
+app.get(
+  '/api/tipificacion',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  tipificacionController.listar
+);
+
+app.get(
+  '/api/tipificacion/buscar',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  tipificacionController.buscar
+);
+
+app.get(
+  '/api/tipificacion/nivel1',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  tipificacionController.listarNivel1
+);
+
+app.get(
+  '/api/tipificacion/nivel2',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  tipificacionController.listarNivel2
+);
+
+app.get(
+  '/api/tipificacion/nivel3',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireAuthenticatedActor,
+  tipificacionController.listarNivel3
+);
+
+// ── Datos PNP (fuente externa) ────────────────────────────────────────────────
+app.post(
+  '/api/pnp/importar',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  pnpController.importarDesdeExcel
+);
+
+app.get(
+  '/api/pnp/lotes',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  pnpController.listarLotes
+);
+
+// ── Mapa del Delito ───────────────────────────────────────────────────────────
+app.get(
+  '/api/mapa-delito/cemvi',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  mapaDelitoController.estadisticasCemvi
+);
+
+app.get(
+  '/api/mapa-delito/pnp',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  mapaDelitoController.estadisticasPnp
 );
 
 // Administracion de usuarios institucionales

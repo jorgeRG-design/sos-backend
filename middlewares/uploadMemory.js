@@ -4,7 +4,7 @@ const multer = require('multer');
 module.exports = multer({
   storage: multer.memoryStorage(),
   limits: {
-    files: 25,
+    files: 10,
     fileSize: 15 * 1024 * 1024,
   },
 });
