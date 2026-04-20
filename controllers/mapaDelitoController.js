@@ -195,4 +195,116 @@ async function estadisticasPnp(req, res) {
   }
 }
 
-module.exports = { estadisticasCemvi, estadisticasPnp };
+/**
+ * GET /api/mapa-delito/cemvi/puntos
+ * Puntos individuales CEMVI (incidencias resueltas con lat/lng) para renderizar
+ * en el mapa táctico como marcadores.
+ * Query: fecha_desde, fecha_hasta (YYYY-MM-DD), zona_id (int)
+ * Response: [{ lat, lng, nivel1, nivel2, nivel3, fecha, zona_id, zona_nombre }]
+ */
+async function puntosCemvi(req, res) {
+  try {
+    const { fecha_desde, fecha_hasta, zona_id } = req.query;
+    const conditions = [
+      `i.estado = 'resuelta'`,
+      `i.latitud IS NOT NULL`,
+      `i.longitud IS NOT NULL`,
+    ];
+    const params = [];
+
+    if (fecha_desde) {
+      params.push(fecha_desde);
+      conditions.push(`i.fecha_creacion >= $${params.length}::date`);
+    }
+    if (fecha_hasta) {
+      params.push(fecha_hasta);
+      conditions.push(`i.fecha_creacion < ($${params.length}::date + INTERVAL '1 day')`);
+    }
+    if (zona_id) {
+      params.push(parseInt(zona_id, 10));
+      conditions.push(`i.sector_id = $${params.length}`);
+    }
+
+    const { rows } = await db.query(
+      `SELECT
+         i.latitud                                 AS lat,
+         i.longitud                                AS lng,
+         i.tipologia_modalidad                     AS nivel1,
+         i.tipologia_subtipo                       AS nivel2,
+         COALESCE(i.tipologia_tipo, i.tipo)        AS nivel3,
+         i.fecha_creacion                          AS fecha,
+         i.sector_id                               AS zona_id,
+         COALESCE(i.sector_nombre, 'Sin zona')     AS zona_nombre
+       FROM public.incidencias i
+       WHERE ${conditions.join(' AND ')}
+       ORDER BY i.fecha_creacion DESC
+       LIMIT 5000`,
+      params
+    );
+
+    return sendOk(res, { data: rows });
+  } catch (err) {
+    console.error('[mapaDelitoController.puntosCemvi]', err);
+    return sendError(res, {
+      status: 500,
+      code: 'mapa_delito_cemvi_puntos_error',
+      message: err.message,
+    });
+  }
+}
+
+/**
+ * GET /api/mapa-delito/pnp/puntos
+ * Puntos PNP con lat/lng.
+ * Response: [{ lat, lng, nivel3_nombre, fecha_ocurrencia, zona_id, zona_nombre, comisaria }]
+ */
+async function puntosPnp(req, res) {
+  try {
+    const { fecha_desde, fecha_hasta, zona_id } = req.query;
+    const conditions = [
+      `p.latitud IS NOT NULL`,
+      `p.longitud IS NOT NULL`,
+    ];
+    const params = [];
+
+    if (fecha_desde) {
+      params.push(fecha_desde);
+      conditions.push(`p.fecha_ocurrencia >= $${params.length}::date`);
+    }
+    if (fecha_hasta) {
+      params.push(fecha_hasta);
+      conditions.push(`p.fecha_ocurrencia <= $${params.length}::date`);
+    }
+    if (zona_id) {
+      params.push(parseInt(zona_id, 10));
+      conditions.push(`p.zona_id = $${params.length}`);
+    }
+
+    const { rows } = await db.query(
+      `SELECT
+         p.latitud                              AS lat,
+         p.longitud                             AS lng,
+         p.nivel3_nombre                        AS nivel3_nombre,
+         p.fecha_ocurrencia                     AS fecha_ocurrencia,
+         p.zona_id                              AS zona_id,
+         COALESCE(p.zona_nombre, 'Sin zona')    AS zona_nombre,
+         p.comisaria                            AS comisaria
+       FROM public.incidencias_pnp p
+       WHERE ${conditions.join(' AND ')}
+       ORDER BY p.fecha_ocurrencia DESC NULLS LAST
+       LIMIT 5000`,
+      params
+    );
+
+    return sendOk(res, { data: rows });
+  } catch (err) {
+    console.error('[mapaDelitoController.puntosPnp]', err);
+    return sendError(res, {
+      status: 500,
+      code: 'mapa_delito_pnp_puntos_error',
+      message: err.message,
+    });
+  }
+}
+
+module.exports = { estadisticasCemvi, estadisticasPnp, puntosCemvi, puntosPnp };

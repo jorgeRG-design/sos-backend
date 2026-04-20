@@ -30,7 +30,7 @@ async function listar(req, res) {
     }
     if (q) {
       params.push(`%${q.trim()}%`);
-      conditions.push(`nivel3 ILIKE $${params.length}`);
+      conditions.push(`(nivel3 ILIKE $${params.length} OR descripcion ILIKE $${params.length})`);
     }
 
     const { rows } = await db.query(
@@ -54,7 +54,7 @@ async function listar(req, res) {
 }
 
 // ─── GET /api/tipificacion/buscar?q= ─────────────────────────────────────────
-// Busca por texto libre SOLO en nivel3.
+// Busca por texto libre en nivel3 y descripcion.
 // Devuelve el registro completo (nivel1, nivel2, nivel3, descripcion) para que
 // el frontend pueda autocompletar los niveles superiores automáticamente.
 async function buscar(req, res) {
@@ -68,7 +68,7 @@ async function buscar(req, res) {
       `SELECT id, nivel1, nivel2, nivel3, descripcion, codigo_autogenerado
        FROM public.tipificacion
        WHERE activo = TRUE
-         AND nivel3 ILIKE $1
+         AND (nivel3 ILIKE $1 OR descripcion ILIKE $1)
        ORDER BY nivel1, nivel2, nivel3
        LIMIT 50`,
       [`%${q}%`]

@@ -373,6 +373,22 @@ app.get(
   mapaDelitoController.estadisticasPnp
 );
 
+app.get(
+  '/api/mapa-delito/cemvi/puntos',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  mapaDelitoController.puntosCemvi
+);
+
+app.get(
+  '/api/mapa-delito/pnp/puntos',
+  apiKeyMiddleware,
+  attachActorContext,
+  requireCentralActor,
+  mapaDelitoController.puntosPnp
+);
+
 // Administracion de usuarios institucionales
 app.get(
   '/api/admin/usuarios',
